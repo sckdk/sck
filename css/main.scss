@@ -1,0 +1,54 @@
+---
+# Frontmatter for  jekyll, please do not remove!
+---
+
+//Base override
+a {
+    font-family: 'Oswald', sans-serif;
+    transition: all 0.2s;
+}
+h1, h2, h3, h4 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 4em;
+    @media (max-width: 992px){
+        font-size: 3em;
+    }
+    @media (max-width: 600px){
+        font-size: 2em;
+    }
+}
+img {
+    width:100%;
+    height: auto;
+}
+.container-full {
+    width:100%;
+    padding:0;
+    margin:0;
+    .row, .col {
+        padding:0;
+        margin:0;
+    }
+}
+
+
+//Mixins
+
+@mixin filter($filter-type,$filter-amount) { 
+  -webkit-filter: $filter-type+unquote('(#{$filter-amount})');
+  -moz-filter: $filter-type+unquote('(#{$filter-amount})');
+  -ms-filter: $filter-type+unquote('(#{$filter-amount})');
+  -o-filter: $filter-type+unquote('(#{$filter-amount})');
+  filter: $filter-type+unquote('(#{$filter-amount})');
+}
+
+@mixin containerpadding($padding) {
+    padding-left: $padding;
+}
+
+//Imports
+@import
+        "base",
+        "layout",
+        "custom"
+;
