@@ -41,7 +41,10 @@ header {
     }
     .responsive-video {
       position:fixed;
-      top:-10vh;
+      top:-8vw;
+      @media (max-width: 600px){
+        top:0;
+      }
     }
     .vid-overlay {
       position:fixed;width:100%;
@@ -54,7 +57,7 @@ header {
     h1 {
       position:absolute;
       width:100%;
-      top:20vh;text-align: center;
+      top:8vw;text-align: center;
       z-index:9;
       color:#fff;
       font-weight: 900;
@@ -90,17 +93,6 @@ header {
             }
             @media (max-width: 600px){
                 font-size: 9vw;
-            }
-        }
-        .maskot {
-            position: absolute;
-            bottom:0; right:3vw;
-            width:30%;
-            @media (max-width: 992px){
-                width:20%;
-            }
-            @media (max-width: 600px){
-                width:20%;
             }
         }
     }
@@ -141,27 +133,32 @@ header {
 }
 
 .index {
-
-  margin: 60vh 0 0 0;
-  padding: 10vh 0 0 0;
+  margin: 30vw 0 0 0;
 }
 
 main {
     position:relative;
     z-index: 10;
-    min-height: 50vh;
+    min-height: 1px;
     width:100%;
     background-color:#fff;
+    padding: 0 0 10vh 0;
     .row {margin-bottom:0;}
     .time-drop {
-      margin: -22vh 0 0 0;
+        position:relative;
+        top: -80px;
+      @media (max-width: 600px){
+        top: -30px;
+      }
       h2 {
         text-align: center;
         font-size: 2em;
         font-weight: 900;
         color:#fff;
-
         padding:0;
+        @media (max-width: 600px){
+          display:none;
+        }
       }
     }
     .dropdown-button {
@@ -169,21 +166,6 @@ main {
     }
     .dropdown-content li>a, .dropdown-content li>span {
         text-align: center;
-    }
-
-    .maskot {
-        margin-bottom: -20px;
-        width:100%;
-        @media (max-width: 992px){
-            width:20%;
-        }
-        @media (max-width: 600px){
-            width:20%;
-        }
-    }
-
-    .valueprop {
-      padding: 10vh 0 50vh 0;
     }
 
     .headline {
@@ -201,52 +183,6 @@ main {
         right: 0vw;
         width: 10vw;
     }
-
-//ELASTIC COLUMNS JS //FORSIDE GRID
-    .columns
-    {
-    position : relative;
-    left: 0;
-    right: 0;
-    top: 76px;
-    bottom: 0;
-    z-index: 1;
-    }
-
-    .columns .item
-    {
-    position: relative;
-    display:none;
-    border-radius : 3px;
-    overflow :hidden;
-    line-height: 0;
-    }
-
-    .columns .item h4
-    {
-    width:100%;
-    position: absolute;
-    bottom: 0;left: 0;
-    color:  #fff;
-    text-shadow: 0px 2px 5px #000;
-    font-weight: 500;
-    font-size: 18px;
-    padding: 10px 10px 0 10px;
-    }
-
-    .columns .item img
-    {
-        width: 100%;
-        -webkit-filter: grayscale(0.8);
-        filter: grayscale(0.2);
-        transition: all 0.2s;
-
-        &:hover {
-          -webkit-filter: grayscale(0);
-          filter: grayscale(0);
-        }
-    }
-    //ELASTIC COLUMNS JS // FORSIDE GRID
 
     .profile {
         img {
@@ -268,46 +204,6 @@ main {
         height: 40vh;
     }
 
-    #instafeed {
-        position: relative;
-        z-index: 49;
-        .row, .col { padding: 0 !important; }
-        line-height: 0 !important;
-        a {position: relative;}
-
-        .feedMeta {
-            position: absolute;
-            font-size: 2em;
-            color: #fff;
-            top: 0;
-            text-align: center;
-            text-shadow: 1px 1px 5px #263238;
-            width:100%;
-            margin: -50% 0;
-            z-index: 99;
-            transition: visibility 0s, opacity 0.3s linear;
-            visibility: visible;
-            opacity: 1;
-        }
-        img {
-            width: 100%;
-            height: auto;
-            opacity: 0.7;
-            transition: all 0.2s;
-            -webkit-filter: sepia(0.4);
-            filter: sepia(0.4);
-        }
-        a:hover img{
-            opacity: 1;
-            -webkit-filter: sepia(0);
-            filter: sepia(0);
-        }
-        a:hover .feedMeta {
-            visibility: hidden;
-            opacity: 0;
-        }
-    }
-
     #tilmelding {
         iframe {
             width:100% !important;
@@ -323,10 +219,6 @@ footer {
     padding: 50px 0 50px 0;
     min-height: 30vh;
     background-color: #192024;
-
-    @media only screen and (max-width : 600px) {
-        margin-top: 20vh;
-    }
 
     h3 {
         color: #eceff1;
