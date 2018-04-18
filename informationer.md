@@ -11,7 +11,7 @@ permalink: /informationer/
 
 <div id="huskelisten" class="section scrollspy"><h2>Huskelisten</h2><ul><li>PC, sk&aelig;rm, mus, tastatur</li><li>Str&oslash;mkabler til pc og sk&aelig;rm</li><li>Musem&aring;tte</li><li>&Oslash;reb&oslash;ffer</li><li>Noget at sove p&aring; og i.</li><li>Lader til din mobiltelefon.</li><li>Penge til entre, mad og snacks.<br /><br /><u>Ting du ikke skal have med:</u></li></ul><ul><li>Netv&aelig;rkskabel*</li><li>Stikd&aring;se*</li><li>Kaffemaskine*</li><li>K&oslash;leskab*</li><li>Elkedel*</li></ul><p><br />*disse ting har vi som du kan bruge</p><h2>Vores faciliteter</h2><p>Vi har 64 pladser og de s&aelig;lges efter "f&oslash;rst til m&oslash;lle" princippet.<br />Samtidigt har vi en lille kiosk, hvor man kan k&oslash;be chips og sodavand.<br />Har man selv noget med, har vi ogs&aring; et k&oslash;leskab som man kan benytte.
 <br />
-</div>
+</div>feiwjhifjhew
 <div id="faciliteter" class="section scrollspy">
     <div class="row">
         <div class="col s12 m12 l6">
