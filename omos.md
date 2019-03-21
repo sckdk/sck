@@ -33,7 +33,7 @@ permalink: /om-skjern-computer-klub/
     <li class="nick">Boulderbasher</li>
     <li class="name">Marius Hemmet Omer</li></ul></div>
     </div><hr /><div class="row profile"><div class="col s12 m3 l2">
-    <img alt="" src="/assets/img/svend.jpg" /></div><div class="col s12 m9 l9"><ul>
+    <img alt="" src="/assets/img/svend.JPG" /></div><div class="col s12 m9 l9"><ul>
     <li class="formand">Medlem (Udviklingsansvarlig)</li>
     <li class="nick">Larslam</li><li class="name">Svend Thesbjerg</li></ul>
     </div></div></div>
