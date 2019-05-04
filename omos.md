@@ -64,16 +64,16 @@ permalink: /om-skjern-computer-klub/
     <br />B. Bestyrelsesmedlemmer v&aelig;lges for en periode p&aring; 2 &aring;r. Efter et valg konstituerer bestyrelsen sig selv. Bestyrelsen best&aring;r af en formand, en kass&eacute;r, udviklingsansvarlig, kommunikations-ansvarlig og en Crew-ansvarlig. Bestyrelsen fasts&aelig;tter selv sin forretningsorden og er kun beslutningsdygtig, n&aring;r alle bestyrelsens medlemmer er h&oslash;rt og n&aring;r der er flertal i bestyrelsen.<br />
         <br />C. Bestyrelsen fasts&aelig;tter regler for foreningens arrangementer i samr&aring;d med crew.<br /><br />D. Bestyrelsen kan overdrage opgaver til medlemmer udenfor bestyrelsen, og ans&aelig;tte l&oslash;nnet medhj&aelig;lp, s&aring;fremt dette sk&oslash;nnes n&oslash;dvendigt.<br />
     <br />E. Formand og Kasserer tegner det økonomiske ansvar i forening, disse er også underskriftsberettigede på dokumenter med tidsfrist.</p><p>&sect; 7 - Regnskab</p>
-    <p>A. Regnskabs&aring;ret er 1.januar - 31.december<br /><br />&sect; 8 - Alkohol</p>
+    <p >A. Regnskabs&aring;ret er 1.januar - 31.december<br /><br />&sect; 8 - Alkohol</p>
     <p>A. Der m&aring; ikke indtages/medbringes spiritus eller alkohol til foreningens arrangementer, på samme måde er det heller ikke tilladt at møde op i påvirket tilstand.<br />
         Overtr&aelig;delse af dette medf&oslash;re udelukkelse fra arrangementet.<br />
         Samt personlig kontakt til for&aelig;ldre hvis personen er under 18 år.</p>
     <p>&sect; 9 - Generalforsamling</p><p>A. Ordin&aelig;r generalforsamling afholdes hvert &aring;r 1. Kvartal.</p>
-    <p>B. Generalforsamlingen bekendtgøres ved meddelelse på Facebook/Discord til medlemmerne.</p>
-    <p>C. Generalforsamlingen skal indkaldes med mindst 14 dages varsel.</p>
-    <p>D. Afstemningen foreg&aring;r ved h&aring;ndsopr&aelig;kning, dog skal afstemningen foreg&aring; skriftlig n&aring;r bare 10% af de fremm&oslash;dte forlanger dette.</p>
-    <p>E. Stemme kan afgives ved fuldmagt. H&oslash;jest 1 fuldmagt pr. fremm&oslash;dte medlem.</p>
-    <p>F. Dagsorden p&aring; den ordin&aelig;re generalforsamling er f&oslash;lgende:</p>
+    <p class="indent">B. Generalforsamlingen bekendtgøres ved meddelelse på Facebook/Discord til medlemmerne.</p>
+    <p class="indent">C. Generalforsamlingen skal indkaldes med mindst 14 dages varsel.</p>
+    <p class="indent">D. Afstemningen foreg&aring;r ved h&aring;ndsopr&aelig;kning, dog skal afstemningen foreg&aring; skriftlig n&aring;r bare 10% af de fremm&oslash;dte forlanger dette.</p>
+    <p class="indent">E. Stemme kan afgives ved fuldmagt. H&oslash;jest 1 fuldmagt pr. fremm&oslash;dte medlem.</p>
+    <p class="indent">F. Dagsorden p&aring; den ordin&aelig;re generalforsamling er f&oslash;lgende:</p>
     <p>1. Valg af dirigent.<br />2. Valg af to stemmet&aelig;llere.<br />3. Beretning v. bestyrelsesformanden.<br />
     4. Regnskab v. kasseren.<br />5. Fasts&aelig;ttelse af kontingent.<br />
     6. Indkomne forslag.<br />
@@ -88,10 +88,10 @@ På den ekstraordinære generalforsamling, kan kun det emne behandles, som er gr
 Indkaldelse til ekstraordinær generalforsamling sker på samme måde som ved en ordinær generalforsamling
 </p>
     <p>&sect; 10 - Vedt&aelig;gts &aelig;ndringer</p>
-    <p>A. Der kr&aelig;ves mindst 67% flertal af de fremm&oslash;dte medlemmer.</p>
+    <p class="indent">A. Der kr&aelig;ves mindst 67% flertal af de fremm&oslash;dte medlemmer.</p>
     <p>&sect; 11 - Foreningens opl&oslash;sning</p>
-    <p>A. Der kr&aelig;ves 70% flertal af de fremm&oslash;dte medlemmer, p&aring; 2 uafh&aelig;ngige generalforsamlinger, som afholdes med mindst 14 dages mellemrum og h&oslash;jest 30 dage.</p>
-    <p>B. Foreningens udstyr skal ved opl&oslash;sning s&aelig;lges p&aring; sidste generalforsamling til de fremm&oslash;dte medlemmer. Foreningens midler skal ved opl&oslash;sning g&aring; til en velg&oslash;rende forening, hvilken forening vedtages p&aring; den sidste generalforsamling.</p>
+    <p class="indent">A. Der kr&aelig;ves 70% flertal af de fremm&oslash;dte medlemmer, p&aring; 2 uafh&aelig;ngige generalforsamlinger, som afholdes med mindst 14 dages mellemrum og h&oslash;jest 30 dage.</p>
+    <p class="indent">B. Foreningens udstyr skal ved opl&oslash;sning s&aelig;lges p&aring; sidste generalforsamling til de fremm&oslash;dte medlemmer. Foreningens midler skal ved opl&oslash;sning g&aring; til en velg&oslash;rende forening, hvilken forening vedtages p&aring; den sidste generalforsamling.</p>
     <p>&sect; 12 - Stemmeret</p>
     <p class="indent">A. Alle foreningens medlemmer som har deltaget ved et af klubbens arrangementer inden for de sidste 12 måneder og er fyldt 15 år, har stemmeret,</p>
     <p>&sect; 13 - Reng&oslash;ring</p>
