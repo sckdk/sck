@@ -45,7 +45,7 @@ permalink: /om-skjern-computer-klub/
 <div id="vedtaegter" class="section scrollspy"><h2>Vedt&aelig;gter</h2>
     <p><strong>Vedt&aelig;gter for Foreningen Skjern Computer Klub </strong>
     </p>
-    <p>&sect; 1 - Navn</p><p>A. Foreningens navn er: Skjern Computer Klub (SCK)</p>
+    <p>&sect; 1 - Navn</p><p class="indent">A. Foreningens navn er: Skjern Computer Klub (SCK)</p>
     <p class="indent">B. Foreningens hjemsted: Ringk&oslash;bing-Skjern Kommune</p><p>&sect; 2 - Form&aring;l</p>
     <p class="indent">A. Foreningens form&aring;l er:<br />
         Vores formål er at bringe unge computer interesserede sammen til godt samvær og venskab.<br />
@@ -64,17 +64,17 @@ permalink: /om-skjern-computer-klub/
     <br />B. Bestyrelsesmedlemmer v&aelig;lges for en periode p&aring; 2 &aring;r. Efter et valg konstituerer bestyrelsen sig selv. Bestyrelsen best&aring;r af en formand, en kass&eacute;r, udviklingsansvarlig, kommunikations-ansvarlig og en Crew-ansvarlig. Bestyrelsen fasts&aelig;tter selv sin forretningsorden og er kun beslutningsdygtig, n&aring;r alle bestyrelsens medlemmer er h&oslash;rt og n&aring;r der er flertal i bestyrelsen.<br />
         <br />C. Bestyrelsen fasts&aelig;tter regler for foreningens arrangementer i samr&aring;d med crew.<br /><br />D. Bestyrelsen kan overdrage opgaver til medlemmer udenfor bestyrelsen, og ans&aelig;tte l&oslash;nnet medhj&aelig;lp, s&aring;fremt dette sk&oslash;nnes n&oslash;dvendigt.<br />
     <br />E. Formand og Kasserer tegner det økonomiske ansvar i forening, disse er også underskriftsberettigede på dokumenter med tidsfrist.</p><p>&sect; 7 - Regnskab</p>
-    <p >A. Regnskabs&aring;ret er 1.januar - 31.december<br /><br />&sect; 8 - Alkohol</p>
-    <p>A. Der m&aring; ikke indtages/medbringes spiritus eller alkohol til foreningens arrangementer, på samme måde er det heller ikke tilladt at møde op i påvirket tilstand.<br />
+    <p class="indent">A. Regnskabs&aring;ret er 1.januar - 31.december<br /><br />&sect; 8 - Alkohol</p>
+    <p class="indent">A. Der m&aring; ikke indtages/medbringes spiritus eller alkohol til foreningens arrangementer, på samme måde er det heller ikke tilladt at møde op i påvirket tilstand.<br />
         Overtr&aelig;delse af dette medf&oslash;re udelukkelse fra arrangementet.<br />
         Samt personlig kontakt til for&aelig;ldre hvis personen er under 18 år.</p>
-    <p>&sect; 9 - Generalforsamling</p><p>A. Ordin&aelig;r generalforsamling afholdes hvert &aring;r 1. Kvartal.</p>
+    <p>&sect; 9 - Generalforsamling</p><p class="indent">A. Ordin&aelig;r generalforsamling afholdes hvert &aring;r 1. Kvartal.</p>
     <p class="indent">B. Generalforsamlingen bekendtgøres ved meddelelse på Facebook/Discord til medlemmerne.</p>
     <p class="indent">C. Generalforsamlingen skal indkaldes med mindst 14 dages varsel.</p>
     <p class="indent">D. Afstemningen foreg&aring;r ved h&aring;ndsopr&aelig;kning, dog skal afstemningen foreg&aring; skriftlig n&aring;r bare 10% af de fremm&oslash;dte forlanger dette.</p>
     <p class="indent">E. Stemme kan afgives ved fuldmagt. H&oslash;jest 1 fuldmagt pr. fremm&oslash;dte medlem.</p>
     <p class="indent">F. Dagsorden p&aring; den ordin&aelig;re generalforsamling er f&oslash;lgende:</p>
-    <p>1. Valg af dirigent.<br />2. Valg af to stemmet&aelig;llere.<br />3. Beretning v. bestyrelsesformanden.<br />
+    <p class="indent">1. Valg af dirigent.<br />2. Valg af to stemmet&aelig;llere.<br />3. Beretning v. bestyrelsesformanden.<br />
     4. Regnskab v. kasseren.<br />5. Fasts&aelig;ttelse af kontingent.<br />
     6. Indkomne forslag.<br />
     7. Forslag, der &oslash;nskes behandlet, skal v&aelig;re bestyrelsen i h&aelig;nde senest 7 dage f&oslash;r generalforsamlingen.<br />
@@ -83,7 +83,8 @@ permalink: /om-skjern-computer-klub/
         10. Valg af 2 bestyrelsesmedlemmer i ulige &aring;r.<br />
         11. Valg af 2 suppleanter hvert &aring;r.<br />
         12. Valg af revisor samt revisorsuppleant hvert &aring;r.<br />
-        13. Eventuelt.</p><p>G. Ekstraordinær generalforsamling kan til enhver tid indkaldes af bestyrelsen, eller kræves af medlemmerne hvis mindst 20 aktive medlemmer har indsendt skriftlig anmodning til formanden. 
+        13. Eventuelt.</p>
+    <p class="indent">G. Ekstraordinær generalforsamling kan til enhver tid indkaldes af bestyrelsen, eller kræves af medlemmerne hvis mindst 20 aktive medlemmer har indsendt skriftlig anmodning til formanden. 
 På den ekstraordinære generalforsamling, kan kun det emne behandles, som er grunden til den ekstraordinære indkaldelse. 
 Indkaldelse til ekstraordinær generalforsamling sker på samme måde som ved en ordinær generalforsamling
 </p>
@@ -105,7 +106,7 @@ Indkaldelse til ekstraordinær generalforsamling sker på samme måde som ved en
     <p class="indent">A. Deling over netv&aelig;rket uden password beskyttelse er ikke tilladt. F&oslash;rste gang det overtr&aelig;des, gives der en advarsel. Anden gang det overtr&aelig;des, bliver vedkommende bortvist.</p>
     <p>&sect; 16 - Musik / Mp3&acute;er</p>
     <p class="indent">A. Ophavsretlig materiale m&aring; ikke afspilles " Offentligt ", Kun i h&oslash;retelefoner.</p>
-    <p>&sect; 17 - Æresmedlemskab</p><p>A.Til æresmedlem kan vælges alle som har stået foreningen nær i en årrække, og som tillige kan enstemmigt vedtages af en bestyrelse.</p> 
+    <p>&sect; 17 - Æresmedlemskab</p><p class="indent">A.Til æresmedlem kan vælges alle som har stået foreningen nær i en årrække, og som tillige kan enstemmigt vedtages af en bestyrelse.</p> 
     <p class="indent">B. Æresmedlemer har gratis adgang, til alle klubbens aktiviteter.</p>
 <p class="indent">C. Et æresmedlemskab kan kun annulleres igen ved en enig bestyrelse.</p>
 </div>
