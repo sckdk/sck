@@ -46,21 +46,21 @@ permalink: /om-skjern-computer-klub/
     <p><strong>Vedt&aelig;gter for Foreningen Skjern Computer Klub </strong>
     </p>
     <p>&sect; 1 - Navn</p><p>A. Foreningens navn er: Skjern Computer Klub (SCK)</p>
-    <p>B. Foreningens hjemsted: Ringk&oslash;bing-Skjern Kommune</p><p>&sect; 2 - Form&aring;l</p>
-    <p>A. Foreningens form&aring;l er:<br />
+    <p class="indent">B. Foreningens hjemsted: Ringk&oslash;bing-Skjern Kommune</p><p>&sect; 2 - Form&aring;l</p>
+    <p class="indent">A. Foreningens form&aring;l er:<br />
         Vores formål er at bringe unge computer interesserede sammen til godt samvær og venskab.<br />
         Vi er en forening som i høj grad bygger på frivillige kræfter, hygge, konkurrence og fællesskab.<br />
         Dette skal være med til at gøre computerspil til et socialt samlingspunkt for unge i Skjern og omegn.<br />
     </p><p>&sect; 3 - Medlemmer</p>
-    <p>A. Foreningens aktiviteter henvender sig i f&oslash;rste r&aelig;kke til unge fra 12 &aring;r og opefter.</p>
-    <p>B. Medlemmer st&aring;r selv til ansvar for rettidigt, at Til- og framelde sig, det der tilfaldende Computer-Party. I tilf&aelig;lde af problemer, m&aring; man s&oslash;ge kontakt til Crew/Bestyrelsen.</p>
+    <p class="indent">A. Foreningens aktiviteter henvender sig i f&oslash;rste r&aelig;kke til unge fra 12 &aring;r og opefter.</p>
+    <p class="indent">B. Medlemmer st&aring;r selv til ansvar for rettidigt, at Til- og framelde sig, det der tilfaldende Computer-Party. I tilf&aelig;lde af problemer, m&aring; man s&oslash;ge kontakt til Crew/Bestyrelsen.</p>
     <p>&sect; 4 - Kontingent</p>
-    <p>A. Kontingent st&oslash;rrelse fasts&aelig;ttes p&aring; generalforsamlingen hvert &aring;r og er lig deltagergebyret til et LAN.<br />B. Opkr&aelig;vnings form fasts&aelig;ttes af bestyrelsen.</p>
+    <p class="indent">A. Kontingent st&oslash;rrelse fasts&aelig;ttes p&aring; generalforsamlingen hvert &aring;r og er lig deltagergebyret til et LAN.<br />B. Opkr&aelig;vnings form fasts&aelig;ttes af bestyrelsen.</p>
     <p>&sect; 5 - Udelukkelse</p>
-    <p>A. Hvis bestyrelsen finder et medlem's holdninger/v&aelig;rem&aring;de til skade for foreningen kan medlemmet i sidste instans udelukkes.<br />
+    <p class="indent">A. Hvis bestyrelsen finder et medlem's holdninger/v&aelig;rem&aring;de til skade for foreningen kan medlemmet i sidste instans udelukkes.<br />
         Dog f&oslash;rst med fors&oslash;g p&aring; at finde en fornuftig l&oslash;sning p&aring; problemet.</p>
     <p>&sect; 6 - Foreningens ledelse</p>
-    <p>A. Foreningens ledelse varetages af en bestyrelse p&aring; 5 myndige medlemmer<br />
+    <p class="indent">A. Foreningens ledelse varetages af en bestyrelse p&aring; 5 myndige medlemmer<br />
     <br />B. Bestyrelsesmedlemmer v&aelig;lges for en periode p&aring; 2 &aring;r. Efter et valg konstituerer bestyrelsen sig selv. Bestyrelsen best&aring;r af en formand, en kass&eacute;r, udviklingsansvarlig, kommunikations-ansvarlig og en Crew-ansvarlig. Bestyrelsen fasts&aelig;tter selv sin forretningsorden og er kun beslutningsdygtig, n&aring;r alle bestyrelsens medlemmer er h&oslash;rt og n&aring;r der er flertal i bestyrelsen.<br />
         <br />C. Bestyrelsen fasts&aelig;tter regler for foreningens arrangementer i samr&aring;d med crew.<br /><br />D. Bestyrelsen kan overdrage opgaver til medlemmer udenfor bestyrelsen, og ans&aelig;tte l&oslash;nnet medhj&aelig;lp, s&aring;fremt dette sk&oslash;nnes n&oslash;dvendigt.<br />
     <br />E. Formand og Kasserer tegner det økonomiske ansvar i forening, disse er også underskriftsberettigede på dokumenter med tidsfrist.</p><p>&sect; 7 - Regnskab</p>
@@ -95,19 +95,19 @@ Indkaldelse til ekstraordinær generalforsamling sker på samme måde som ved en
     <p>&sect; 12 - Stemmeret</p>
     <p class="indent">A. Alle foreningens medlemmer som har deltaget ved et af klubbens arrangementer inden for de sidste 12 måneder og er fyldt 15 år, har stemmeret,</p>
     <p>&sect; 13 - Reng&oslash;ring</p>
-    <p>A. Alle medlemmer som er tilstede ved foreningens arrangementer, har pligt til at holde lokalerne i orden, s&aring; der er p&aelig;nt og rent.</p>
-    <p>B. Bestyrelsen kan udpege fremm&oslash;dte medlemmer til at hj&aelig;lpe ved arrangementer.</p>
+    <p class="indent">A. Alle medlemmer som er tilstede ved foreningens arrangementer, har pligt til at holde lokalerne i orden, s&aring; der er p&aelig;nt og rent.</p>
+    <p class="indent">B. Bestyrelsen kan udpege fremm&oslash;dte medlemmer til at hj&aelig;lpe ved arrangementer.</p>
     <p>&sect; 14 - Tyveri / H&aelig;rv&aelig;rk / Ansvar</p>
-    <p>A. Medlemmerne er selv ansvarlige for deres ejendele, ligeledes er medlemmerne ogs&aring; selv ansvarlige for skader forvoldt p&aring; foreningens lokaler o.l.</p>
-    <p>B. Foreningen vil ikke kunne tage ansvar for medlemmernes ejendele og kan ikke g&aring; ind, og d&aelig;kke tyveri eller h&aelig;rv&aelig;rk samt skader forvoldt af medlemmerne.</p>
-    <p>C. Bliver man taget i at ud&oslash;ve tyveri eller h&aelig;rv&aelig;rk, vil det medf&oslash;re udelukkelse fra klubben, samt politi anmeldes.<br />Der vil ligeledes blive taget kontakt til for&aelig;ldre hvis personen er under 18 år.</p>
+    <p class="indent">A. Medlemmerne er selv ansvarlige for deres ejendele, ligeledes er medlemmerne ogs&aring; selv ansvarlige for skader forvoldt p&aring; foreningens lokaler o.l.</p>
+    <p class="indent">B. Foreningen vil ikke kunne tage ansvar for medlemmernes ejendele og kan ikke g&aring; ind, og d&aelig;kke tyveri eller h&aelig;rv&aelig;rk samt skader forvoldt af medlemmerne.</p>
+    <p class="indent">C. Bliver man taget i at ud&oslash;ve tyveri eller h&aelig;rv&aelig;rk, vil det medf&oslash;re udelukkelse fra klubben, samt politi anmeldes.<br />Der vil ligeledes blive taget kontakt til for&aelig;ldre hvis personen er under 18 år.</p>
     <p>&sect; 15 - Deling over netv&aelig;rk</p>
-    <p>A. Deling over netv&aelig;rket uden password beskyttelse er ikke tilladt. F&oslash;rste gang det overtr&aelig;des, gives der en advarsel. Anden gang det overtr&aelig;des, bliver vedkommende bortvist.</p>
+    <p class="indent">A. Deling over netv&aelig;rket uden password beskyttelse er ikke tilladt. F&oslash;rste gang det overtr&aelig;des, gives der en advarsel. Anden gang det overtr&aelig;des, bliver vedkommende bortvist.</p>
     <p>&sect; 16 - Musik / Mp3&acute;er</p>
-    <p>A. Ophavsretlig materiale m&aring; ikke afspilles " Offentligt ", Kun i h&oslash;retelefoner.</p>
+    <p class="indent">A. Ophavsretlig materiale m&aring; ikke afspilles " Offentligt ", Kun i h&oslash;retelefoner.</p>
     <p>&sect; 17 - Æresmedlemskab</p><p>A.Til æresmedlem kan vælges alle som har stået foreningen nær i en årrække, og som tillige kan enstemmigt vedtages af en bestyrelse.</p> 
-    <p>B. Æresmedlemer har gratis adgang, til alle klubbens aktiviteter.</p>
-<p>C. Et æresmedlemskab kan kun annulleres igen ved en enig bestyrelse.</p>
+    <p class="indent">B. Æresmedlemer har gratis adgang, til alle klubbens aktiviteter.</p>
+<p class="indent">C. Et æresmedlemskab kan kun annulleres igen ved en enig bestyrelse.</p>
 </div>
 
 <ul class="section table-of-contents">
