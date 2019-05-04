@@ -4,6 +4,7 @@ title: Om SCK
 permalink: /om-skjern-computer-klub/
 ---
 <style>p.indent{ padding-left: 1.8em }</style>
+<style>p.indent2{ padding-left: 3.6em }</style>
 
 <div id="omos" class="section scrollspy"><h2>Om Skjern Computer Klub</h2>
     <p>Skjern Computer Klub har nu eksisteret i over 25 &aring;r.<br />Vores m&aring;l har fra starten v&aelig;ret, at bringe unge computer interesserede sammen i til godt samv&aelig;r og venskab.<br />Vi er en forening som i h&oslash;j grad bygger p&aring; frivillige kr&aelig;fter, hygge, konkurrence og f&aelig;llesskab.<br />
@@ -74,8 +75,11 @@ permalink: /om-skjern-computer-klub/
     <p class="indent">D. Afstemningen foreg&aring;r ved h&aring;ndsopr&aelig;kning, dog skal afstemningen foreg&aring; skriftlig n&aring;r bare 10% af de fremm&oslash;dte forlanger dette.</p>
     <p class="indent">E. Stemme kan afgives ved fuldmagt. H&oslash;jest 1 fuldmagt pr. fremm&oslash;dte medlem.</p>
     <p class="indent">F. Dagsorden p&aring; den ordin&aelig;re generalforsamling er f&oslash;lgende:</p>
-    <p class="indent"><p class="indent">1. Valg af dirigent.<br />2. Valg af to stemmet&aelig;llere.<br />3. Beretning v. bestyrelsesformanden.<br />
-    4. Regnskab v. kasseren.<br />5. Fasts&aelig;ttelse af kontingent.<br />
+    <p class="indent2">1. Valg af dirigent.<br />
+        2. Valg af to stemmet&aelig;llere.<br />
+        3. Beretning v. bestyrelsesformanden.<br />
+    4. Regnskab v. kasseren.<br />
+        5. Fasts&aelig;ttelse af kontingent.<br />
     6. Indkomne forslag.<br />
     7. Forslag, der &oslash;nskes behandlet, skal v&aelig;re bestyrelsen i h&aelig;nde senest 7 dage f&oslash;r generalforsamlingen.<br />
         8. Valg til bestyrelse.<br />
@@ -83,7 +87,7 @@ permalink: /om-skjern-computer-klub/
         10. Valg af 2 bestyrelsesmedlemmer i ulige &aring;r.<br />
         11. Valg af 2 suppleanter hvert &aring;r.<br />
         12. Valg af revisor samt revisorsuppleant hvert &aring;r.<br />
-        13. Eventuelt.</p></p>
+        13. Eventuelt.</p>
     <p class="indent">G. Ekstraordinær generalforsamling kan til enhver tid indkaldes af bestyrelsen, eller kræves af medlemmerne hvis mindst 20 aktive medlemmer har indsendt skriftlig anmodning til formanden. 
 På den ekstraordinære generalforsamling, kan kun det emne behandles, som er grunden til den ekstraordinære indkaldelse. 
 Indkaldelse til ekstraordinær generalforsamling sker på samme måde som ved en ordinær generalforsamling
