@@ -243,3 +243,10 @@ footer {
     margin-bottom: 0; }
   footer .socialIcons {
     font-size: 2em; }
+
+.sommerlanHeadVid {
+  height: 70vh; }
+  .sommerlanHeadVid .responsive-video {
+    width: 100%;
+    height: 70vh;
+    object-fit: cover; }

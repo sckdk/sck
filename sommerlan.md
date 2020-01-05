@@ -4,7 +4,7 @@ title: Sommerlan
 permalink: /sommerlan/
 ---
 
-<div class="video-container">
+<div class="sommerlanHeadVid video-container">
   <video class="responsive-video" autoplay loop muted>
     <source src="/uploads/sommerlan/Film.mp4" type="video/mp4">
   </video>

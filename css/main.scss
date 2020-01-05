@@ -34,7 +34,7 @@ img {
 
 //Mixins
 
-@mixin filter($filter-type,$filter-amount) { 
+@mixin filter($filter-type,$filter-amount) {
   -webkit-filter: $filter-type+unquote('(#{$filter-amount})');
   -moz-filter: $filter-type+unquote('(#{$filter-amount})');
   -ms-filter: $filter-type+unquote('(#{$filter-amount})');
@@ -50,5 +50,6 @@ img {
 @import
         "base",
         "layout",
-        "custom"
+        "custom",
+        "sommerlan"
 ;
