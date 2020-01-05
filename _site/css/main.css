@@ -204,6 +204,16 @@ main {
     height: 40vh; }
   main #tilmelding iframe {
     width: 100% !important; }
+  main #omos {
+    padding: 5vh 0; }
+    main #omos .card {
+      padding: 50px 0;
+      width: 95%;
+      text-align: center;
+      font-size: 2em;
+      color: #fff; }
+    main #omos #map {
+      margin: 5vh 0; }
 
 footer {
   position: relative;

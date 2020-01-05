@@ -210,6 +210,22 @@ main {
         }
     }
 
+    #omos {
+      padding: 5vh 0;
+
+      .card {
+        padding: 50px 0;
+        width:95%;
+        text-align:center;
+        font-size:2em;
+        color:#fff;
+      }
+
+      #map {
+        margin: 5vh 0;
+      }
+    }
+
 }
 
 footer {
