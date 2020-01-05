@@ -6,7 +6,7 @@ header {
     width:100%;
     nav {
       position:relative;
-      z-index:9999;
+      z-index:99999999999;
         .brand-logo {
             img {
                 width:auto;
@@ -35,6 +35,7 @@ header {
 
     .fixed {
       position: fixed;width:100%;
+      z-index:9999999999999;
       z-index: 0;
     }
 
