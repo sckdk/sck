@@ -12,14 +12,16 @@ permalink: /sommerlan/
 
 <main>
     <div class="container">
-        <a href="#tilmelding" class="btn btn-large cta deep-orange tabs-wrapper">
+        <a href="#tilmelding" class="btn btn-large cta deep-orange tabs-wrapper sommerlanCTA">
            Tilmeld dig nu
         </a>
     </div>
     <section class="intro">
         <div class="container">
             <div class="row">
-              <h4>Kom med til en uforglemmelig hyggelig uge, med masser af nørderi, sjov og konkurrencer!</h4>
+              <div class="col s12">
+                <h4>Kom med til en uforglemmelig hyggelig uge, med masser af nørderi, sjov og konkurrencer!</h4>
+              </div>
             </div>
             <div class="row">
               <div class="col s12 m12 l8">
@@ -82,7 +84,7 @@ permalink: /sommerlan/
         </div>
     </section>
 
-    <section class="secction scrollspy amber lighten-5">
+    <section class="secction scrollspy amber lighten-5 informationer">
         <div class="container">
             <div class="row">
                 <h4>Hvor bliver det hele afholdt?</h4>
@@ -135,13 +137,13 @@ permalink: /sommerlan/
         </div>
     </section>
 
-    <section class="amber lighten-4 hide-on-small-only">
+    <section class="amber lighten-4 hide-on-small-only" id="crew">
         <div class="container">
             <h2 class="editable">Årets Crew</h2>
         </div>
     </section>
 
-    <section class="section scrollspy  amber lighten-5 hide-on-small-only" id="crew">
+    <section class="section scrollspy  amber lighten-5 hide-on-small-only crew">
         <div class="container">
             <div class="row">
 
