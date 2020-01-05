@@ -55,6 +55,8 @@ header {
       color: #000; }
     header nav a {
       color: #000; }
+    header nav .sommerlan {
+      background-color: #ffecb3; }
   header .fixed {
     position: fixed;
     width: 100%;
@@ -214,6 +216,16 @@ main {
       color: #fff; }
     main #omos #map {
       margin: 5vh 0; }
+
+.sck-section {
+  padding: 5vh;
+  width: 100%;
+  background-color: #fff3e0; }
+
+.sommerlan-section {
+  padding: 5vh;
+  width: 100%;
+  background-color: #fffde7; }
 
 footer {
   position: relative;

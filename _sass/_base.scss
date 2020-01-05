@@ -28,6 +28,9 @@ header {
         a {
              color: #000;
         }
+        .sommerlan {
+          background-color:#ffecb3;
+        }
     }
 
     .fixed {
@@ -226,6 +229,17 @@ main {
       }
     }
 
+}
+
+.sck-section {
+    padding: 5vh;
+    width:100%;
+    background-color:#fff3e0;
+}
+.sommerlan-section {
+    padding: 5vh;
+    width:100%;
+    background-color:#fffde7;
 }
 
 footer {
