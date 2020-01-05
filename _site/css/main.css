@@ -273,7 +273,7 @@ footer {
   margin-top: -6px;
   padding: 5vh 0; }
 
-.informationer, .crew, .signup {
+.informationer, .crew, .signup, .tilmelding {
   padding: 5vh 0;
   margin: 0; }
 
@@ -303,3 +303,9 @@ main .carousel .carousel-item .carouselDesc {
 
 main .carousel .carousel-item .carouselDesc h4 {
   font-size: 1.5em; }
+
+iframe {
+  width: 100%; }
+  @media only screen and (max-width: 601px) {
+    iframe {
+      width: 85vw; } }
