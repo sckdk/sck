@@ -5,19 +5,19 @@
                 <a href="/" class="brand-logo col s4"><img src="../assets/img/logo.png" class="skjern computer klub"></a>
                 <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
                 <ul class="right hide-on-med-and-down">
-                    {% for my_page in site.pages %}
-                        {% if my_page.title %}
-                            <li><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
-                        {% endif %}
-                    {% endfor %}
+                  <li><a class="page-link" href="/informationer">Informationer</a></li>
+                  <li><a class="page-link" href="/kontakt">Kontakt</a></li>
+                  <li><a class="page-link" href="/om-skjern-computer-klub">Om SCK</a></li>
+                  <li><a class="page-link" href="/tilmelding">Tilmelding</a></li>
+                  <li><a class="page-link" href="/sommerlan">Sommerlan</a></li>
                 </ul>
             </div>
             <ul class="side-nav" id="mobile-demo">
-                    {% for my_page in site.pages %}
-                        {% if my_page.title %}
-                            <li><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
-                        {% endif %}
-                    {% endfor %}
+              <li><a class="page-link" href="/informationer">Informationer</a></li>
+              <li><a class="page-link" href="/kontakt">Kontakt</a></li>
+              <li><a class="page-link" href="/om-skjern-computer-klub">Om SCK</a></li>
+              <li><a class="page-link" href="/tilmelding">Tilmelding</a></li>
+              <li><a class="page-link" href="/sommerlan">Sommerlan</a></li>
             </ul>
         </div>
     </nav>
@@ -32,7 +32,7 @@
         <div class="col s12">
             <div class="video-container">
               <video class="responsive-video" autoplay loop muted>
-                <source src="http://sck.dk/assets/img/Film.mp4" type="video/mp4">
+                <source src="/uploads/Film.mp4" type="video/mp4">
               </video>
             </div>
           </div>

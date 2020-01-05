@@ -150,7 +150,7 @@ header {
         font-size: 1.5em; } }
 
 .index {
-  margin: 30vw 0 0 0; }
+  margin: 75vh 0 0 0; }
 
 main {
   position: relative;
@@ -255,7 +255,8 @@ footer {
   padding: 0; }
 
 .sommerlanCTA {
-  width: 100%; }
+  width: 100%;
+  margin-top: -25px; }
 
 .intro {
   padding: 5vh 0; }
