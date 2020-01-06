@@ -193,7 +193,7 @@ permalink: /sommerlan/
                                </div>
 
                     </a>
-                          <a class="carousel-item z-depth-1" href="#four!"><img src="/uploads/sommerlan/person.JPG" />
+                          <a class="carousel-item z-depth-1" href="#four!"><img src="/uploads/sommerlan/person.jpg" />
                         <div class="carouselDesc">
                             <h4>Name</h4>
                             <h3>Crew</h3>
