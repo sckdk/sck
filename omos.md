@@ -45,8 +45,8 @@ permalink: /om-skjern-computer-klub/
 <div id="vedtaegter" class="section scrollspy"><h2>Vedt&aelig;gter</h2>
     <p><strong>Vedt&aelig;gter for Foreningen Skjern Computer Klub </strong>
     </p>
-    <p>&sect; 1 - Navn</p><p class="indent">A. Foreningens navn er: Skjern Computer Klub (SCK)</p>
-    <p class="indent">B. Foreningens hjemsted: Ringk&oslash;bing-Skjern Kommune</p><p>&sect; 2 - Form&aring;l</p>
+    <p>&sect; 1 - Navn</p><p class="indent">A. Foreningens navn er: Skjern Computer Klub (SCK)<br />
+    <p class="indent">B. Foreningens hjemsted: Ringk&oslash;bing-Skjern Kommune</p><p>&sect; 2 - Form&aring;l<br />
     <p class="indent">A. Foreningens form&aring;l er:<br />
         Vores formål er at bringe unge computer interesserede sammen til godt samvær og venskab.<br />
         Vi er en forening som i høj grad bygger på frivillige kræfter, hygge, konkurrence og fællesskab.<br />
