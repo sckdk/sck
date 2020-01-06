@@ -118,6 +118,18 @@ permalink: /sommerlan/
                     <li><p class="flow-text">19/7: Hamburgerryg med ris, bearnaisesauce og salat og dressing</p></li>
                 </ul>
             </div>
+             <div class="row">
+                <h4>Menuen til 2020</h4>
+                <ul>
+                    <li><p class="flow-text">18/7: Afsløres i april</p></li>
+                    <li><p class="flow-text">19/7: Afsløres i april</p></li>
+                    <li><p class="flow-text">20/7: Afsløres i april</p></li>
+                    <li><p class="flow-text">21/7: Afsløres i april</p></li>
+                    <li><p class="flow-text">22/7: Afsløres i april</p></li>
+                    <li><p class="flow-text">23/7: Afsløres i april</p></li>
+                    <li><p class="flow-text">24/7: Afsløres i april</p></li>
+                </ul>
+            </div>
 
             <div class="row">
                 <h4 class="editable section scrollspy" id="regler">Regler</h4>
