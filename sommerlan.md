@@ -55,12 +55,12 @@ permalink: /sommerlan/
              
                  <ul>
                 <li><h4>Konkurrencer i 2019:</h4></li>
-                <li><p class="flow-text">Søndag: Comming Soon</p></li>
-                <li><p class="flow-text">Mandag: Comming Soon</p></li>
-                <li><p class="flow-text">Tirsdag: Comming Soon</p></li>
-                <li><p class="flow-text">Onsdag: Comming Soon</p></li>
-                <li><p class="flow-text">Torsdag: Comming Soon</p></li>
-                <li><p class="flow-text">Fredag: Comming Soon</p></li>
+                <li><p class="flow-text">Søndag: Afsløres i april</p></li>
+                <li><p class="flow-text">Mandag: Afsløres i april</p></li>
+                <li><p class="flow-text">Tirsdag: Afsløres i april</p></li>
+                <li><p class="flow-text">Onsdag: Afsløres i april</p></li>
+                <li><p class="flow-text">Torsdag: Afsløres i april</p></li>
+                <li><p class="flow-text">Fredag: Afsløres i april</p></li>
               <li><p class="flow-text">Hver dag kl 00.00: Midnatsgalskab</p></li>
             </ul>
             
