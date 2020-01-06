@@ -119,7 +119,6 @@ Indkaldelse til ekstraordinær generalforsamling sker på samme måde som ved en
     <p class="indent">A.Til æresmedlem kan vælges alle som har stået foreningen nær i en årrække, og som tillige kan enstemmigt vedtages af en bestyrelse.<br />
     B. Æresmedlemer har gratis adgang, til alle klubbens aktiviteter.<br />
 C. Et æresmedlemskab kan kun annulleres igen ved en enig bestyrelse.</p>
-</div>
 
 <ul class="section table-of-contents">
     <li><a href="#omos">Om SCK</a></li>
