@@ -11,20 +11,19 @@ permalink: /om-skjern-computer-klub/
     Vores fortsatte m&aring;l, er at g&oslash;re computerspil til et socialt samlingspunkt for unge i Skjern og omegn.<br />
         Vores klub er &aring;ben for alle, og vores typiske LAN deltagere er mellem 12 og 45 &aring;r.</p>
 </div>
-
 <div id="bestyrelsen" class="section scrollspy"><h2>Bestyrelsen</h2>
     <div class="row profile">
         <div class="col s12 m3 l2">
-            <img alt="" src="/assets/img/kim.jpg" /></div>
+            <img alt="" src="/assets/img/morten.jpg" /></div>
         <div class="col s12 m9 l9"><ul><li class="formand">Formand</li>
-            <li class="nick">Aranel</li><li class="name">Kim Heldgaard Jensen</li>
+            <li class="nick">Stoiss</li><li class="name">Morten Wiberg</li>
             </ul></div></div><hr>
     <div class="row profile">
     <div class="col s12 m3 l2">
-    <img alt="" height="480" width="510" src="/assets/img/morten.jpg" />
+    <img alt="" height="480" width="510" src="/assets/img/kim.jpg" />
     </div><div class="col s12 m9 l9">
         <ul><li class="formand">Medlem (Kasserer)</li>
-    <li class="nick">Stoiss</li><li class="name">Morten Wiberg</li>
+    <li class="nick">Aranel</li><li class="name">Kim Heldgaard Jensen</li>
     </ul></div></div><hr />
     <div class="row profile">
         <div class="col s12 m3 l2"><img alt="" src="/assets/img/thor.jpg" />
