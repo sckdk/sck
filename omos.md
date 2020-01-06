@@ -20,10 +20,10 @@ permalink: /om-skjern-computer-klub/
             </ul></div></div><hr>
     <div class="row profile">
     <div class="col s12 m3 l2">
-    <img alt="" height="480" width="510" src="/assets/img/kim.jpg" />
+    <img alt="" height="480" width="510" src="/assets/img/svend.JPG" />
     </div><div class="col s12 m9 l9">
         <ul><li class="formand">Medlem (Kasserer)</li>
-    <li class="nick">Aranel</li><li class="name">Kim Heldgaard Jensen</li>
+    <li class="nick">LarsLam</li><li class="name">Kim Heldgaard Jensen</li>
     </ul></div></div><hr />
     <div class="row profile">
         <div class="col s12 m3 l2"><img alt="" src="/assets/img/thor.jpg" />
@@ -37,9 +37,9 @@ permalink: /om-skjern-computer-klub/
     <li class="nick">Boulderbasher</li>
     <li class="name">Marius Hemmet Omer</li></ul></div>
     </div><hr /><div class="row profile"><div class="col s12 m3 l2">
-    <img alt="" src="/assets/img/svend.JPG" /></div><div class="col s12 m9 l9"><ul>
-    <li class="formand">Medlem (Udviklingsansvarlig)</li>
-    <li class="nick">Larslam</li><li class="name">Svend Thesbjerg</li></ul>
+    <img alt="" src="/assets/img/kim.jpg" /></div><div class="col s12 m9 l9"><ul>
+    <li class="formand">Medlem (Udstyrsvarlig)</li>
+    <li class="nick">Aranel</li><li class="name">Kim Heldgaard Jensen</li></ul>
     </div></div></div>
 
 <div id="vedtaegter" class="section scrollspy"><h2>Vedt&aelig;gter</h2>
