@@ -50,7 +50,7 @@ permalink: /om-skjern-computer-klub/
     <p class="indent">A. Foreningens form&aring;l er:<br />
         Vores formål er at bringe unge computer interesserede sammen til godt samvær og venskab.<br />
         Vi er en forening som i høj grad bygger på frivillige kræfter, hygge, konkurrence og fællesskab.<br />
-        Dette skal være med til at gøre computerspil til et socialt samlingspunkt for unge i Skjern og omegn.</p>
+        Dette skal være med til at gøre computerspil til et socialt samlingspunkt for unge i Skjern og omegn.<br />
     </p><p>&sect; 3 - Medlemmer</p>
     <p class="indent">A. Foreningens aktiviteter henvender sig i f&oslash;rste r&aelig;kke til unge fra 12 &aring;r og opefter.</p>
     <p class="indent">B. Medlemmer st&aring;r selv til ansvar for rettidigt, at Til- og framelde sig, det der tilfaldende Computer-Party. I tilf&aelig;lde af problemer, m&aring; man s&oslash;ge kontakt til Crew/Bestyrelsen.</p>
