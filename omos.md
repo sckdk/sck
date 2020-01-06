@@ -116,7 +116,7 @@ Indkaldelse til ekstraordinær generalforsamling sker på samme måde som ved en
     <p>&sect; 16 - Musik / Mp3&acute;er</p>
     <p class="indent">A. Ophavsretlig materiale m&aring; ikke afspilles " Offentligt ", Kun i h&oslash;retelefoner.</p>
     <p>&sect; 17 - Æresmedlemskab<br />
-    A.Til æresmedlem kan vælges alle som har stået foreningen nær i en årrække, og som tillige kan enstemmigt vedtages af en bestyrelse.<br />
+    <p class="indent">A.Til æresmedlem kan vælges alle som har stået foreningen nær i en årrække, og som tillige kan enstemmigt vedtages af en bestyrelse.<br />
     B. Æresmedlemer har gratis adgang, til alle klubbens aktiviteter.<br />
 C. Et æresmedlemskab kan kun annulleres igen ved en enig bestyrelse.</p>
 </div>
