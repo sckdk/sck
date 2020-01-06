@@ -186,7 +186,7 @@ permalink: /sommerlan/
                                </div>
 
                     </a>
-                          <a class="carousel-item z-depth-1" href="#three!"><img src="/uploads/sommerlan/jonas.jpg" />
+                          <a class="carousel-item z-depth-1" href="#three!"><img src="/uploads/sommerlan/person.jpg" />
                         <div class="carouselDesc">
                             <h4>Jonas Faaborg Jensen</h4>
                             <h3>Crew</h3>
