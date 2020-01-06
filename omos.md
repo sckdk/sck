@@ -62,10 +62,13 @@ permalink: /om-skjern-computer-klub/
         Dog f&oslash;rst med fors&oslash;g p&aring; at finde en fornuftig l&oslash;sning p&aring; problemet.</p>
     <p>&sect; 6 - Foreningens ledelse</p>
     <p class="indent">A. Foreningens ledelse varetages af en bestyrelse p&aring; 5 myndige medlemmer.<br />
-    B. Bestyrelsesmedlemmer v&aelig;lges for en periode p&aring; 2 &aring;r. Efter et valg konstituerer bestyrelsen sig selv. Bestyrelsen best&aring;r af en formand, en kass&eacute;r, udstyrsansvarlig, kommunikations-ansvarlig og en Crew-ansvarlig. Bestyrelsen fasts&aelig;tter selv sin forretningsorden og er kun beslutningsdygtig, n&aring;r alle bestyrelsens medlemmer er h&oslash;rt og n&aring;r der er flertal i bestyrelsen.<br />
-        C. Bestyrelsen fasts&aelig;tter regler for foreningens arrangementer i samr&aring;d med crew.<br />
-        D. Bestyrelsen kan overdrage opgaver til medlemmer udenfor bestyrelsen, og ans&aelig;tte l&oslash;nnet medhj&aelig;lp, s&aring;fremt dette sk&oslash;nnes n&oslash;dvendigt.<br />
-    E. Formand og Kasserer tegner det økonomiske ansvar i forening, disse er også underskriftsberettigede på dokumenter med tidsfrist.</p><p>&sect; 7 - Regnskab</p>
+    B. Bestyrelsesmedlemmer v&aelig;lges for en periode p&aring; 2 &aring;r.<br /> 
+    C.Efter et valg konstituerer bestyrelsen sig selv.<br />
+    D.Bestyrelsen best&aring;r af en formand, en kass&eacute;r, udstyrsansvarlig, kommunikations-ansvarlig og en Crew-ansvarlig.<br />
+    E.Bestyrelsen fasts&aelig;tter selv sin forretningsorden og er kun beslutningsdygtig, n&aring;r alle bestyrelsens medlemmer er h&oslash;rt og n&aring;r der er flertal i bestyrelsen.<br />
+        F. Bestyrelsen fasts&aelig;tter regler for foreningens arrangementer i samr&aring;d med crew.<br />
+        G. Bestyrelsen kan overdrage opgaver til medlemmer udenfor bestyrelsen, og ans&aelig;tte l&oslash;nnet medhj&aelig;lp, s&aring;fremt dette sk&oslash;nnes n&oslash;dvendigt.<br />
+    H. Formand og Kasserer tegner det økonomiske ansvar i forening, disse er også underskriftsberettigede på dokumenter med tidsfrist.</p><p>&sect; 7 - Regnskab</p>
     <p class="indent">A. Regnskabs&aring;ret er 1.januar - 31.december<br />
     <p>&sect; 8 - Alkohol</p>
     <p class="indent">A. Der m&aring; ikke indtages/medbringes spiritus eller alkohol til foreningens arrangementer, på samme måde er det heller ikke tilladt at møde op i påvirket tilstand.<br />
