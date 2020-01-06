@@ -45,22 +45,22 @@ permalink: /om-skjern-computer-klub/
 <div id="vedtaegter" class="section scrollspy"><h2>Vedt&aelig;gter</h2>
     <p><strong>Vedt&aelig;gter for Foreningen Skjern Computer Klub </strong>
     </p>
-    <p>&sect; 1 - Navn</p><p class="indent">A. Foreningens navn er: Skjern Computer Klub (SCK)<br />
-    <p class="indent">B. Foreningens hjemsted: Ringk&oslash;bing-Skjern Kommune</p><p>&sect; 2 - Form&aring;l<br />
+    <p>&sect; 1 - Navn</p><p class="indent">A. Foreningens navn er: Skjern Computer Klub (SCK)</p>
+    <p class="indent">B. Foreningens hjemsted: Ringk&oslash;bing-Skjern Kommune</p><p>&sect; 2 - Form&aring;l</p>
     <p class="indent">A. Foreningens form&aring;l er:<br />
-        Vores formål er at bringe unge computer interesserede sammen til godt samvær og venskab.<br />
-        Vi er en forening som i høj grad bygger på frivillige kræfter, hygge, konkurrence og fællesskab.<br />
-        Dette skal være med til at gøre computerspil til et socialt samlingspunkt for unge i Skjern og omegn.<br />
+        Vores formål er at bringe unge computer interesserede sammen til godt samvær og venskab.</p>
+        Vi er en forening som i høj grad bygger på frivillige kræfter, hygge, konkurrence og fællesskab.</p>
+        Dette skal være med til at gøre computerspil til et socialt samlingspunkt for unge i Skjern og omegn.</p>
     </p><p>&sect; 3 - Medlemmer</p>
     <p class="indent">A. Foreningens aktiviteter henvender sig i f&oslash;rste r&aelig;kke til unge fra 12 &aring;r og opefter.</p>
     <p class="indent">B. Medlemmer st&aring;r selv til ansvar for rettidigt, at Til- og framelde sig, det der tilfaldende Computer-Party. I tilf&aelig;lde af problemer, m&aring; man s&oslash;ge kontakt til Crew/Bestyrelsen.</p>
     <p>&sect; 4 - Kontingent</p>
     <p class="indent">A. Kontingent st&oslash;rrelse fasts&aelig;ttes p&aring; generalforsamlingen hvert &aring;r og er lig deltagergebyret til et LAN.<br />B. Opkr&aelig;vnings form fasts&aelig;ttes af bestyrelsen.</p>
     <p>&sect; 5 - Udelukkelse</p>
-    <p class="indent">A. Hvis bestyrelsen finder et medlem's holdninger/v&aelig;rem&aring;de til skade for foreningen kan medlemmet i sidste instans udelukkes.<br />
+    <p class="indent">A. Hvis bestyrelsen finder et medlem's holdninger/v&aelig;rem&aring;de til skade for foreningen kan medlemmet i sidste instans udelukkes.</p>
         Dog f&oslash;rst med fors&oslash;g p&aring; at finde en fornuftig l&oslash;sning p&aring; problemet.</p>
     <p>&sect; 6 - Foreningens ledelse</p>
-    <p class="indent">A. Foreningens ledelse varetages af en bestyrelse p&aring; 5 myndige medlemmer<br />
+    <p class="indent">A. Foreningens ledelse varetages af en bestyrelse p&aring; 5 myndige medlemmer</p>
     <br />B. Bestyrelsesmedlemmer v&aelig;lges for en periode p&aring; 2 &aring;r. Efter et valg konstituerer bestyrelsen sig selv. Bestyrelsen best&aring;r af en formand, en kass&eacute;r, udstyrsansvarlig, kommunikations-ansvarlig og en Crew-ansvarlig. Bestyrelsen fasts&aelig;tter selv sin forretningsorden og er kun beslutningsdygtig, n&aring;r alle bestyrelsens medlemmer er h&oslash;rt og n&aring;r der er flertal i bestyrelsen.<br />
         <br />C. Bestyrelsen fasts&aelig;tter regler for foreningens arrangementer i samr&aring;d med crew.<br /><br />D. Bestyrelsen kan overdrage opgaver til medlemmer udenfor bestyrelsen, og ans&aelig;tte l&oslash;nnet medhj&aelig;lp, s&aring;fremt dette sk&oslash;nnes n&oslash;dvendigt.<br />
     <br />E. Formand og Kasserer tegner det økonomiske ansvar i forening, disse er også underskriftsberettigede på dokumenter med tidsfrist.</p><p>&sect; 7 - Regnskab</p>
