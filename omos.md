@@ -100,24 +100,25 @@ Indkaldelse til ekstraordinær generalforsamling sker på samme måde som ved en
     <p>&sect; 10 - Vedt&aelig;gts &aelig;ndringer</p>
     <p class="indent">A. Der kr&aelig;ves mindst 67% flertal af de fremm&oslash;dte medlemmer.</p>
     <p>&sect; 11 - Foreningens opl&oslash;sning</p>
-    <p class="indent">A. Der kr&aelig;ves 70% flertal af de fremm&oslash;dte medlemmer, p&aring; 2 uafh&aelig;ngige generalforsamlinger, som afholdes med mindst 14 dages mellemrum og h&oslash;jest 30 dage.</p>
-    <p class="indent">B. Foreningens udstyr skal ved opl&oslash;sning s&aelig;lges p&aring; sidste generalforsamling til de fremm&oslash;dte medlemmer. Foreningens midler skal ved opl&oslash;sning g&aring; til en velg&oslash;rende forening, hvilken forening vedtages p&aring; den sidste generalforsamling.</p>
+    <p class="indent">A. Der kr&aelig;ves 70% flertal af de fremm&oslash;dte medlemmer, p&aring; 2 uafh&aelig;ngige generalforsamlinger, som afholdes med mindst 14 dages mellemrum og h&oslash;jest 30 dage.<br />
+    B. Foreningens udstyr skal ved opl&oslash;sning s&aelig;lges p&aring; sidste generalforsamling til de fremm&oslash;dte medlemmer. Foreningens midler skal ved opl&oslash;sning g&aring; til en velg&oslash;rende forening, hvilken forening vedtages p&aring; den sidste generalforsamling.</p>
     <p>&sect; 12 - Stemmeret</p>
     <p class="indent">A. Alle foreningens medlemmer som har deltaget ved et af klubbens arrangementer inden for de sidste 12 måneder og er fyldt 15 år, har stemmeret,</p>
     <p>&sect; 13 - Reng&oslash;ring</p>
-    <p class="indent">A. Alle medlemmer som er tilstede ved foreningens arrangementer, har pligt til at holde lokalerne i orden, s&aring; der er p&aelig;nt og rent.</p>
-    <p class="indent">B. Bestyrelsen kan udpege fremm&oslash;dte medlemmer til at hj&aelig;lpe ved arrangementer.</p>
+    <p class="indent">A. Alle medlemmer som er tilstede ved foreningens arrangementer, har pligt til at holde lokalerne i orden, s&aring; der er p&aelig;nt og rent.<br />
+    B. Bestyrelsen kan udpege fremm&oslash;dte medlemmer til at hj&aelig;lpe ved arrangementer.</p>
     <p>&sect; 14 - Tyveri / H&aelig;rv&aelig;rk / Ansvar</p>
-    <p class="indent">A. Medlemmerne er selv ansvarlige for deres ejendele, ligeledes er medlemmerne ogs&aring; selv ansvarlige for skader forvoldt p&aring; foreningens lokaler o.l.</p>
-    <p class="indent">B. Foreningen vil ikke kunne tage ansvar for medlemmernes ejendele og kan ikke g&aring; ind, og d&aelig;kke tyveri eller h&aelig;rv&aelig;rk samt skader forvoldt af medlemmerne.</p>
-    <p class="indent">C. Bliver man taget i at ud&oslash;ve tyveri eller h&aelig;rv&aelig;rk, vil det medf&oslash;re udelukkelse fra klubben, samt politi anmeldes.<br />Der vil ligeledes blive taget kontakt til for&aelig;ldre hvis personen er under 18 år.</p>
+    <p class="indent">A. Medlemmerne er selv ansvarlige for deres ejendele, ligeledes er medlemmerne ogs&aring; selv ansvarlige for skader forvoldt p&aring; foreningens lokaler o.l.<br />
+    B. Foreningen vil ikke kunne tage ansvar for medlemmernes ejendele og kan ikke g&aring; ind, og d&aelig;kke tyveri eller h&aelig;rv&aelig;rk samt skader forvoldt af medlemmerne.<br />
+    C. Bliver man taget i at ud&oslash;ve tyveri eller h&aelig;rv&aelig;rk, vil det medf&oslash;re udelukkelse fra klubben, samt politi anmeldes.<br />Der vil ligeledes blive taget kontakt til for&aelig;ldre hvis personen er under 18 år.</p>
     <p>&sect; 15 - Deling over netv&aelig;rk</p>
     <p class="indent">A. Deling over netv&aelig;rket uden password beskyttelse er ikke tilladt. F&oslash;rste gang det overtr&aelig;des, gives der en advarsel. Anden gang det overtr&aelig;des, bliver vedkommende bortvist.</p>
     <p>&sect; 16 - Musik / Mp3&acute;er</p>
     <p class="indent">A. Ophavsretlig materiale m&aring; ikke afspilles " Offentligt ", Kun i h&oslash;retelefoner.</p>
-    <p>&sect; 17 - Æresmedlemskab</p><p class="indent">A.Til æresmedlem kan vælges alle som har stået foreningen nær i en årrække, og som tillige kan enstemmigt vedtages af en bestyrelse.</p> 
-    <p class="indent">B. Æresmedlemer har gratis adgang, til alle klubbens aktiviteter.</p>
-<p class="indent">C. Et æresmedlemskab kan kun annulleres igen ved en enig bestyrelse.</p>
+    <p>&sect; 17 - Æresmedlemskab<br />
+    A.Til æresmedlem kan vælges alle som har stået foreningen nær i en årrække, og som tillige kan enstemmigt vedtages af en bestyrelse.<br />
+    B. Æresmedlemer har gratis adgang, til alle klubbens aktiviteter.<br />
+C. Et æresmedlemskab kan kun annulleres igen ved en enig bestyrelse.</p>
 </div>
 
 <ul class="section table-of-contents">
