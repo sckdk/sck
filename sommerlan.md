@@ -107,7 +107,7 @@ permalink: /sommerlan/
             </div>
 
             <div class="row">
-                <h4>Menuen til 2019</h4>
+                <h4>Menuen i 2019</h4>
                 <ul>
                     <li><p class="flow-text">13/7: Forloren hare med kartofler, sauce og ærter</p></li>
                     <li><p class="flow-text">14/7: Kylling med pikantost svøbt i bacon med pastasalat</p></li>
@@ -119,7 +119,7 @@ permalink: /sommerlan/
                 </ul>
             </div>
              <div class="row">
-                <h4>Menuen til 2020</h4>
+                <h4>Menuen i 2020</h4>
                 <ul>
                     <li><p class="flow-text">18/7: Afsløres i april</p></li>
                     <li><p class="flow-text">19/7: Afsløres i april</p></li>
@@ -133,7 +133,7 @@ permalink: /sommerlan/
 
             <div class="row">
                 <h4 class="editable section scrollspy" id="regler">Regler</h4>
-                <p class="flow-text"><strong>Tilmelding til LAN.</strong><br />2 enheder pr. plads. (<strong>Maksimalt én stationær enhed, altså maks én stationær computer eller en konsol</strong>)<br />Hvis du er under 18 år, forventer vi at dine forældre er indforstået med, at du deltager, og at de er indforstået med vores vedtægter og regelsæt.<br />Hvis du er under 12 år, forventer vi at du har en ledsager med, som kan hjælpe med det mest basale.<br />Mad, sove, spil og computerproblemer.<br />&nbsp;<strong><br />Deling og brug af filer til LAN.</strong><br />Deling over netværket uden password beskyttelse er ikke tilladt.<br />Vi tager løbende stikprøver.<br />&nbsp;<br /><strong>Gæster til LAN.</strong><br />Hvis du ikke deltager i partyet (altså har en pc med og har en betalt plads), betragtes du som værende gæst.<br />Gæster kan ikke deltage i konkurrencer og må ikke overnatte, hvis gæster er til gene for deltagere kan de bortvises af Crew.<br />Gæster er velkommen i tidsrummet 12:00 til 23:00, hvor man har pligt at til orientere Crew, at man er på besøg. I særlige tilfælde kan Crew give tilladelse til at gæster bliver længere.<br />&nbsp;<br /><strong>Bortvisnings grund.</strong><br />Indtagelse/påvirkning af alkohol/euforiserende stoffer til LAN er forbudt.<br />Rygning foregår udenfor og skodder smides i askebærene.<br />Du har selv ansvaret for dine ting, SCK kan ikke dække skader/tyveri.<br />Tyveri vil blive anmeldt, og forældre vil blive kontaktet hvis deltageren er under 18 år.<br />Hold et fornuftigt niveau på dine højtalere, tag evt. et par ørebøffer med.<br />Mobning, slåskampe, løb og uterlig opførsel tolereres ikke.<br />Pornografi som f.eks. billeder, film eller deslige accepteres ikke, uanset om det er deling eller fremvisning på egen computer.
+                <p class="flow-text"><strong>Tilmelding til LAN.</strong><br />2 enheder pr. plads. (<strong>Maksimalt én stationær enhed, altså maks én stationær computer eller en konsol</strong>)<br />Hvis du er under 18 år, forventer vi at dine forældre er indforstået med, at du deltager, og at de er indforstået med vores vedtægter og regelsæt.<br />Hvis du er under 12 år, forventer vi at du har en ledsager med, som kan hjælpe med det mest basale.<br />Mad, sove, spil og computerproblemer.<br />&nbsp;<strong><br />Deling og brug af filer til LAN.</strong><br />Deling over netværket uden password beskyttelse er ikke tilladt.<br />Vi tager løbende stikprøver.<br />&nbsp;<br /><strong>Gæster til LAN.</strong><br />Hvis du ikke deltager i partyet (altså har en pc med og har en betalt plads), betragtes du som værende gæst.<br />Gæster kan ikke deltage i konkurrencer og må ikke overnatte, hvis gæster er til gene for deltagere kan de bortvises af Crew.<br />Gæster er velkommen men har PLIGT at til orientere Crew, at man er på besøg. Gør man ikke crew opmærksomme på dette, vil man blive bortvist.<br />&nbsp;<br /><strong>Bortvisnings grund.</strong><br />Indtagelse/påvirkning af alkohol/euforiserende stoffer til LAN er forbudt.<br />Rygning foregår udenfor og skodder smides i askebærene.<br />Du har selv ansvaret for dine ting, SCK kan ikke dække skader/tyveri.<br />Tyveri begået mod klubben vil blive anmeldt, og forældre vil blive kontaktet hvis deltageren er under 18 år.<br />Hold et fornuftigt niveau på dine højtalere, tag evt. et par ørebøffer med.<br />Mobning, slåskampe, løb og uterlig opførsel tolereres ikke.<br />Pornografi som f.eks. billeder, film eller deslige accepteres ikke, uanset om det er deling eller fremvisning på egen computer.
                 </p>
             </div>
 
