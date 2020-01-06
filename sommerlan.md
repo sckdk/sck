@@ -268,7 +268,7 @@ permalink: /sommerlan/
             <div class="tilmelding section scrollspy">
                 <h4>Tilmeldingen åbner den 3. Maj 2020 kl. 12:00</h4>
                 <p><i>(mobil brugere: for bedre visning, henvises der til desktop)</i></p>
-                <iframe src="https://place2book.com/da/choose_seating_sales_workflow?seccode=f406d83985" height="700px" width="1280px"></iframe>
+                <iframe src="https://www.place2book.com/da/choose_seating_sales_workflow?seccode=myo1weax2k" height="700px" width="1280px"></iframe>
             </div>
         </div>
     </section>
