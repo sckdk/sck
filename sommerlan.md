@@ -55,7 +55,7 @@ permalink: /sommerlan/
                      <ul>
                 <li><h4>Konkurrencer i 2020:</h4></li>
                 <li><p class="flow-text">Comming Soon</p></li>
-                <li><p class="flow-text">Comming Soon/p></li>
+                <li><p class="flow-text">Comming Soon</p></li>
                 <li><p class="flow-text">Comming Soon</p></li>
                 <li><p class="flow-text">Comming Soon</p></li>
                 <li><p class="flow-text">Comming Soon</p></li>
