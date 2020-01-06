@@ -172,16 +172,16 @@ permalink: /sommerlan/
             <div class="row">
 
                 <div class="carousel">
-                     <a class="carousel-item z-depth-1" href="#one!"><img src="/uploads/sommerlan/morten.jpg" />
+                     <a class="carousel-item z-depth-1" href="#one!"><img src="/uploads/sommerlan/person.jpg" />
                         <div class="carouselDesc">
-                            <h4>Morten Wiberg, tlf. 52678386</h4>
+                            <h4>Name</h4>
                             <h3>Arrangør</h3>
                                </div>
 
                     </a>
-                      <a class="carousel-item z-depth-1" href="#two!"><img src="/uploads/sommerlan/marius.jpg" />
+                      <a class="carousel-item z-depth-1" href="#two!"><img src="/uploads/sommerlan/person.jpg" />
                         <div class="carouselDesc">
-                            <h4>Marius Hemmet Omer</h4>
+                            <h4>Name</h4>
                             <h3>Crew</h3>
                                </div>
 
@@ -193,51 +193,51 @@ permalink: /sommerlan/
                                </div>
 
                     </a>
-                          <a class="carousel-item z-depth-1" href="#four!"><img src="/uploads/sommerlan/svend.JPG" />
+                          <a class="carousel-item z-depth-1" href="#four!"><img src="/uploads/sommerlan/person.JPG" />
                         <div class="carouselDesc">
-                            <h4>Svend Thesbjerg</h4>
+                            <h4>Name</h4>
                             <h3>Crew</h3>
                                </div>
 
                     </a>
-                          <a class="carousel-item z-depth-1" href="#five!"><img src="/uploads/sommerlan/lars.jpg" />
+                          <a class="carousel-item z-depth-1" href="#five!"><img src="/uploads/sommerlan/person.jpg" />
                         <div class="carouselDesc">
-                            <h4>Lars Bue Mortensen</h4>
+                            <h4>Name</h4>
                             <h3>Crew</h3>
                                </div>
 
                     </a>
-                          <a class="carousel-item z-depth-1" href="#six!"><img src="/uploads/sommerlan/bjarne.jpg" />
+                          <a class="carousel-item z-depth-1" href="#six!"><img src="/uploads/sommerlan/person.jpg" />
                         <div class="carouselDesc">
-                            <h4>Bjarne Diemar Mortensen</h4>
+                            <h4>Name</h4>
                             <h3>Crew</h3>
                                </div>
 
                     </a>
-                          <a class="carousel-item z-depth-1" href="#seven!"><img src="/uploads/sommerlan/ferdinan.jpg" />
+                          <a class="carousel-item z-depth-1" href="#seven!"><img src="/uploads/sommerlan/person.jpg" />
                         <div class="carouselDesc">
-                            <h4>Ferdinan Rosthof Jensen</h4>
+                            <h4>Name</h4>
                             <h3>Crew</h3>
                                </div>
 
                     </a>
-                          <a class="carousel-item z-depth-1" href="#eight!"><img src="/uploads/sommerlan/lasse.jpg" />
+                          <a class="carousel-item z-depth-1" href="#eight!"><img src="/uploads/sommerlan/person.jpg" />
                         <div class="carouselDesc">
-                            <h4>Lasse Clemen Mondrup</h4>
+                            <h4>Name</h4>
                             <h3>Crew</h3>
                                </div>
 
                     </a>
-                          <a class="carousel-item z-depth-1" href="#nine!"><img src="/uploads/sommerlan/peter.jpg" />
+                          <a class="carousel-item z-depth-1" href="#nine!"><img src="/uploads/sommerlan/person.jpg" />
                         <div class="carouselDesc">
-                            <h4>Peter Olesen</h4>
+                            <h4>Name</h4>
                             <h3>Crew</h3>
                                </div>
 
                     </a>
-                          <a class="carousel-item z-depth-1" href="#ten!"><img src="/uploads/sommerlan/angelie.jpg" />
+                          <a class="carousel-item z-depth-1" href="#ten!"><img src="/uploads/sommerlan/person.jpg" />
                         <div class="carouselDesc">
-                            <h4>Angelie Mathiesen Kolb</h4>
+                            <h4>Name</h4>
                             <h3>Crew</h3>
                                </div>
 
@@ -258,7 +258,7 @@ permalink: /sommerlan/
     <section class="section scrollspy amber lighten-5" id="signup">
         <div class="container">
             <h4 class="editable">Pris</h4>
-            <p class="editable flow-text"><i>En plads til LAN koster 700,-</i><br>Er pladsen betalt og ønsker man at framelde sig, skal det gøres inden d 29 juni. kl 18, ellers kan man ikke få sine penge tilbage. Gebyret kan man ikke få retur.<br><br>Det er ikke muligt at få flyttet sin plads når man har købt den. Men vil man gerne flyttes kan dette ske under selve lanet hvis andre er villige til at flytte, eller hvis pladsen er ledig.<br><br>Vi har en madaftale hvor man kan få aftensmad hele ugen for kun 350,- i alt, ønsker man dette skal man bare tilvælge det når man booker sin plads. Husk at sidste chance for at booke aftensmad med sin plads, er d. 29. juni.
+            <p class="editable flow-text"><i>En plads til LAN koster 750,-</i><br>Er pladsen betalt og ønsker man at framelde sig, skal det gøres inden d 3 juli. kl 18, ellers kan man ikke få sine penge tilbage. Gebyret kan man ikke få retur.<br><br>Det er ikke muligt at få flyttet sin plads når man har købt den. Men vil man gerne flyttes kan dette ske under selve lanet hvis andre er villige til at flytte, eller hvis pladsen er ledig.<br><br>Vi har en madaftale hvor man kan få aftensmad hele ugen for kun 350,- i alt, ønsker man dette skal man bare tilvælge det når man booker sin plads. Husk at sidste chance for at booke aftensmad med sin plads, er d. 3. juli inden midnat.
 <br><br>
             </p>
         </div>
@@ -266,7 +266,7 @@ permalink: /sommerlan/
     <section>
         <div class="container">
             <div class="tilmelding section scrollspy">
-                <h4>Tilmeldingen åbner den 5. Maj 2019 kl. 12:00</h4>
+                <h4>Tilmeldingen åbner den 3. Maj 2020 kl. 12:00</h4>
                 <p><i>(mobil brugere: for bedre visning, henvises der til desktop)</i></p>
                 <iframe src="https://place2book.com/da/choose_seating_sales_workflow?seccode=f406d83985" height="700px" width="1280px"></iframe>
             </div>
