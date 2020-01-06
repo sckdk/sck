@@ -63,9 +63,9 @@ permalink: /om-skjern-computer-klub/
     <p>&sect; 6 - Foreningens ledelse</p>
     <p class="indent">A. Foreningens ledelse varetages af en bestyrelse p&aring; 5 myndige medlemmer.<br />
     B. Bestyrelsesmedlemmer v&aelig;lges for en periode p&aring; 2 &aring;r.<br /> 
-    C.Efter et valg konstituerer bestyrelsen sig selv.<br />
-    D.Bestyrelsen best&aring;r af en formand, en kass&eacute;r, udstyrsansvarlig, kommunikations-ansvarlig og en Crew-ansvarlig.<br />
-    E.Bestyrelsen fasts&aelig;tter selv sin forretningsorden og er kun beslutningsdygtig, n&aring;r alle bestyrelsens medlemmer er h&oslash;rt og n&aring;r der er flertal i bestyrelsen.<br />
+    C. Efter et valg konstituerer bestyrelsen sig selv.<br />
+    D. Bestyrelsen best&aring;r af en formand, en kass&eacute;r, udstyrsansvarlig, kommunikations-ansvarlig og en Crew-ansvarlig.<br />
+    E. Bestyrelsen fasts&aelig;tter selv sin forretningsorden og er kun beslutningsdygtig, n&aring;r alle bestyrelsens medlemmer er h&oslash;rt og n&aring;r der er flertal i bestyrelsen.<br />
         F. Bestyrelsen fasts&aelig;tter regler for foreningens arrangementer i samr&aring;d med crew.<br />
         G. Bestyrelsen kan overdrage opgaver til medlemmer udenfor bestyrelsen, og ans&aelig;tte l&oslash;nnet medhj&aelig;lp, s&aring;fremt dette sk&oslash;nnes n&oslash;dvendigt.<br />
     H. Formand og Kasserer tegner det økonomiske ansvar i forening, disse er også underskriftsberettigede på dokumenter med tidsfrist.</p><p>&sect; 7 - Regnskab</p>
@@ -74,12 +74,12 @@ permalink: /om-skjern-computer-klub/
     <p class="indent">A. Der m&aring; ikke indtages/medbringes spiritus eller alkohol til foreningens arrangementer, på samme måde er det heller ikke tilladt at møde op i påvirket tilstand.<br />
         Overtr&aelig;delse af dette medf&oslash;re udelukkelse fra arrangementet.<br />
         Samt personlig kontakt til for&aelig;ldre hvis personen er under 18 år.</p>
-    <p>&sect; 9 - Generalforsamling</p><p class="indent">A. Ordin&aelig;r generalforsamling afholdes hvert &aring;r 1. Kvartal.</p>
-    <p class="indent">B. Generalforsamlingen bekendtgøres ved meddelelse på Facebook/Discord til medlemmerne.</p>
-    <p class="indent">C. Generalforsamlingen skal indkaldes med mindst 14 dages varsel.</p>
-    <p class="indent">D. Afstemningen foreg&aring;r ved h&aring;ndsopr&aelig;kning, dog skal afstemningen foreg&aring; skriftlig n&aring;r bare 10% af de fremm&oslash;dte forlanger dette.</p>
-    <p class="indent">E. Stemme kan afgives ved fuldmagt. H&oslash;jest 1 fuldmagt pr. fremm&oslash;dte medlem.</p>
-    <p class="indent">F. Dagsorden p&aring; den ordin&aelig;re generalforsamling er f&oslash;lgende:</p>
+    <p>&sect; 9 - Generalforsamling</p><p class="indent">A. Ordin&aelig;r generalforsamling afholdes hvert &aring;r 1. Kvartal.<br />
+    B. Generalforsamlingen bekendtgøres ved meddelelse på Facebook/Discord til medlemmerne.<br />
+    C. Generalforsamlingen skal indkaldes med mindst 14 dages varsel.<br />
+    D. Afstemningen foreg&aring;r ved h&aring;ndsopr&aelig;kning, dog skal afstemningen foreg&aring; skriftlig n&aring;r bare 10% af de fremm&oslash;dte forlanger dette.<br />
+    E. Stemme kan afgives ved fuldmagt. H&oslash;jest 1 fuldmagt pr. fremm&oslash;dte medlem.<br />
+    F. Dagsorden p&aring; den ordin&aelig;re generalforsamling er f&oslash;lgende:</p>
     <p class="indent2">1. Valg af dirigent.<br />
         2. Valg af to stemmet&aelig;llere.<br />
         3. Beretning v. bestyrelsesformanden.<br />
