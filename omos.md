@@ -38,7 +38,7 @@ permalink: /om-skjern-computer-klub/
     <li class="name">Jonas Fåborg Jensen</li></ul></div>
     </div><hr /><div class="row profile"><div class="col s12 m3 l2">
     <img alt="" src="/assets/img/kim.jpg" /></div><div class="col s12 m9 l9"><ul>
-    <li class="formand">Medlem (Udstyrsvarlig)</li>
+    <li class="formand">Medlem (Udstyrsansvarlig)</li>
     <li class="nick">Aranel</li><li class="name">Kim Heldgaard Jensen</li></ul>
     </div></div></div>
 
