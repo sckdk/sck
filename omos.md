@@ -32,7 +32,7 @@ permalink: /om-skjern-computer-klub/
         <li class="name">Thor Christensen</li>
         </ul></div></div><hr /><div class="row profile">
     <div class="col s12 m3 l2">
-        <img alt="" src="/assets/img/marius.jpg" />
+        <img alt="" src="/assets/img/jonas.jpg" />
     </div><div class="col s12 m9 l9"><ul><li class="formand">Medlem (Crew-Ansvarlig)</li>
     <li class="nick">DVG</li>
     <li class="name">Jonas Fåborg Jensen</li></ul></div>
