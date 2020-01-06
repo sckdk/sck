@@ -23,7 +23,7 @@ permalink: /om-skjern-computer-klub/
     <img alt="" height="480" width="510" src="/assets/img/svend.JPG" />
     </div><div class="col s12 m9 l9">
         <ul><li class="formand">Medlem (Kasserer)</li>
-    <li class="nick">LarsLam</li><li class="name">Kim Heldgaard Jensen</li>
+    <li class="nick">LarsLam</li><li class="name">Svend Thesbjerg</li>
     </ul></div></div><hr />
     <div class="row profile">
         <div class="col s12 m3 l2"><img alt="" src="/assets/img/thor.jpg" />
@@ -34,8 +34,8 @@ permalink: /om-skjern-computer-klub/
     <div class="col s12 m3 l2">
         <img alt="" src="/assets/img/marius.jpg" />
     </div><div class="col s12 m9 l9"><ul><li class="formand">Medlem (Crew-Ansvarlig)</li>
-    <li class="nick">Boulderbasher</li>
-    <li class="name">Marius Hemmet Omer</li></ul></div>
+    <li class="nick">DVG</li>
+    <li class="name">Jonas Fåborg Jensen</li></ul></div>
     </div><hr /><div class="row profile"><div class="col s12 m3 l2">
     <img alt="" src="/assets/img/kim.jpg" /></div><div class="col s12 m9 l9"><ul>
     <li class="formand">Medlem (Udstyrsvarlig)</li>
