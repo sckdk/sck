@@ -20,16 +20,16 @@ permalink: /sommerlan/
         <div class="container">
             <div class="row">
               <div class="col s12">
-                <h4>Kom med til en uforglemmelig hyggelig uge, med masser af nørderi, sjov og konkurrencer!</h4>
+                <h4>Kom med til en uforglemmelig uge, med nørderi, sjov og konkurrencer!</h4>
               </div>
             </div>
             <div class="row">
               <div class="col s12 m12 l8">
                 <p class="flow-text">
-                    Fra d. 13 juli - 20 juli 2019!<br />
+                    Fra d. 18 juli - 25 juli 2020!<br />
                     128 pladser i en hel uge!<br />
-                    Alle deltagere får deres helt egen Sommerlan 2019 T-shirt!<br />
-                    Pris kun 700,- for hele ugen!<br /><br />
+                    Alle deltagere får deres helt egen Sommerlan 2020 T-shirt!<br />
+                    Pris kun 750,- for hele ugen!<br /><br />
                     Man kan få varm aftensmad hele ugen for kun 350,-<br /><br />
                     Vi har 2 konkurrencer, med præmier, hver eneste dag, og der er noget for enhver smag.<br />
                     Vi ligger vægt på hygge, og ikke hård konkurrence og derfor er der også plads til alle ved vores LAN.<br /><br />
@@ -50,6 +50,16 @@ permalink: /sommerlan/
                 <li><p class="flow-text">Onsdag: Tekken 7 - Svømmertur afholdes inden</p></li>
                 <li><p class="flow-text">Torsdag: League of Legends - 3v3</p></li>
                 <li><p class="flow-text">Fredag: Overwatch - FFA</p></li>
+              <li><p class="flow-text">Hver dag kl 00.00: Midnatsgalskab</p></li>
+            </ul>
+                     <ul>
+                <li><h4>Konkurrencer i 2020:</h4></li>
+                <li><p class="flow-text">Comming Soon</p></li>
+                <li><p class="flow-text">Comming Soon/p></li>
+                <li><p class="flow-text">Comming Soon</p></li>
+                <li><p class="flow-text">Comming Soon</p></li>
+                <li><p class="flow-text">Comming Soon</p></li>
+                <li><p class="flow-text">Comming Soon</p></li>
               <li><p class="flow-text">Hver dag kl 00.00: Midnatsgalskab</p></li>
             </ul>
                 </div>
