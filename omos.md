@@ -65,7 +65,8 @@ permalink: /om-skjern-computer-klub/
     <br />B. Bestyrelsesmedlemmer v&aelig;lges for en periode p&aring; 2 &aring;r. Efter et valg konstituerer bestyrelsen sig selv. Bestyrelsen best&aring;r af en formand, en kass&eacute;r, udstyrsansvarlig, kommunikations-ansvarlig og en Crew-ansvarlig. Bestyrelsen fasts&aelig;tter selv sin forretningsorden og er kun beslutningsdygtig, n&aring;r alle bestyrelsens medlemmer er h&oslash;rt og n&aring;r der er flertal i bestyrelsen.<br />
         <br />C. Bestyrelsen fasts&aelig;tter regler for foreningens arrangementer i samr&aring;d med crew.<br /><br />D. Bestyrelsen kan overdrage opgaver til medlemmer udenfor bestyrelsen, og ans&aelig;tte l&oslash;nnet medhj&aelig;lp, s&aring;fremt dette sk&oslash;nnes n&oslash;dvendigt.<br />
     <br />E. Formand og Kasserer tegner det økonomiske ansvar i forening, disse er også underskriftsberettigede på dokumenter med tidsfrist.</p><p>&sect; 7 - Regnskab</p>
-    <p class="indent">A. Regnskabs&aring;ret er 1.januar - 31.december<br /><br /><p>&sect; 8 - Alkohol</p>
+    <p class="indent">A. Regnskabs&aring;ret er 1.januar - 31.december<br />
+    <p>&sect; 8 - Alkohol</p>
     <p class="indent">A. Der m&aring; ikke indtages/medbringes spiritus eller alkohol til foreningens arrangementer, på samme måde er det heller ikke tilladt at møde op i påvirket tilstand.<br />
         Overtr&aelig;delse af dette medf&oslash;re udelukkelse fra arrangementet.<br />
         Samt personlig kontakt til for&aelig;ldre hvis personen er under 18 år.</p>
