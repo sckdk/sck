@@ -54,7 +54,7 @@ permalink: /sommerlan/
             </ul>
              
                  <ul>
-                <li><h4>Konkurrencer i 2019:</h4></li>
+                <li><h4>Konkurrencer i 2020:</h4></li>
                 <li><p class="flow-text">Søndag: Afsløres i april</p></li>
                 <li><p class="flow-text">Mandag: Afsløres i april</p></li>
                 <li><p class="flow-text">Tirsdag: Afsløres i april</p></li>
