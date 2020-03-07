@@ -59,7 +59,7 @@ permalink: /om-skjern-computer-klub/
         B. Opkr&aelig;vnings form fasts&aelig;ttes af bestyrelsen.</p>
     <p>&sect; 5 - Udelukkelse</p>
     <p class="indent">A. Hvis bestyrelsen finder et medlem's holdninger/v&aelig;rem&aring;de til skade for foreningen kan medlemmet i sidste instans udelukkes.</p>
-        Dog f&oslash;rst med fors&oslash;g p&aring; at finde en fornuftig l&oslash;sning p&aring; problemet.</p>
+        <p>Dog f&oslash;rst med fors&oslash;g p&aring; at finde en fornuftig l&oslash;sning p&aring; problemet.</p>
     <p>&sect; 6 - Foreningens ledelse</p>
     <p class="indent">A. Foreningens ledelse varetages af en bestyrelse p&aring; 5 myndige medlemmer.<br />
     B. Bestyrelsesmedlemmer v&aelig;lges for en periode p&aring; 2 &aring;r.<br /> 
