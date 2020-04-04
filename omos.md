@@ -103,7 +103,10 @@ Indkaldelse til ekstraordinær generalforsamling sker på samme måde som ved en
     <p class="indent">A. Der kr&aelig;ves 70% flertal af de fremm&oslash;dte medlemmer, p&aring; 2 uafh&aelig;ngige generalforsamlinger, som afholdes med mindst 14 dages mellemrum og h&oslash;jest 30 dage.<br />
     B. Foreningens udstyr skal ved opl&oslash;sning s&aelig;lges p&aring; sidste generalforsamling til de fremm&oslash;dte medlemmer. Foreningens midler skal ved opl&oslash;sning g&aring; til en velg&oslash;rende forening, hvilken forening vedtages p&aring; den sidste generalforsamling.</p>
     <p>&sect; 12 - Stemmeret</p>
-    <p class="indent">A. Alle foreningens medlemmer som har deltaget ved et af klubbens arrangementer inden for de sidste 12 måneder og er fyldt 15 år, har stemmeret,</p>
+    <p class="indent">A. Alle foreningens medlemmer som har deltaget ved et af klubbens arrangementer inden for de sidste 12 måneder og er fyldt 15 år, har stemmeret.<br />
+    B. Perioden hvor ved stemmeret optjenes går fra generalforsamling til næste generalforsamling.<br />
+    C. Har man kun deltaget ved det Lan hvor generalforsamlingen afholde, gælder ens stemmeret først næste år.
+    </p>
     <p>&sect; 13 - Reng&oslash;ring</p>
     <p class="indent">A. Alle medlemmer som er tilstede ved foreningens arrangementer, har pligt til at holde lokalerne i orden, s&aring; der er p&aelig;nt og rent.<br />
     B. Bestyrelsen kan udpege fremm&oslash;dte medlemmer til at hj&aelig;lpe ved arrangementer.</p>
