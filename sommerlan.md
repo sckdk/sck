@@ -121,13 +121,13 @@ permalink: /sommerlan/
              <div class="row">
                 <h4>Menuen i 2021</h4>
                 <ul>
+                    <li><p class="flow-text">17/7: Afsløres i april</p></li>
                     <li><p class="flow-text">18/7: Afsløres i april</p></li>
                     <li><p class="flow-text">19/7: Afsløres i april</p></li>
                     <li><p class="flow-text">20/7: Afsløres i april</p></li>
                     <li><p class="flow-text">21/7: Afsløres i april</p></li>
                     <li><p class="flow-text">22/7: Afsløres i april</p></li>
                     <li><p class="flow-text">23/7: Afsløres i april</p></li>
-                    <li><p class="flow-text">24/7: Afsløres i april</p></li>
                 </ul>
             </div>
 
