@@ -26,10 +26,10 @@ permalink: /sommerlan/
             <div class="row">
               <div class="col s12 m12 l8">
                 <p class="flow-text">
-                    Fra d. 18 juli - 25 juli 2020!<br />
+                    Fra d. 17 juli - 24 juli 2021!<br />
                     128 pladser i en hel uge!<br />
-                    Alle deltagere får deres helt egen Sommerlan 2020 T-shirt!<br />
-                    Pris kun 750,- for hele ugen!<br /><br />
+                    Alle deltagere får deres helt egen Sommerlan 2021 T-shirt!<br />
+                    Pris kun 800,- for hele ugen!<br /><br />
                     Man kan få varm aftensmad hele ugen for kun 350,-<br /><br />
                     Vi har 2 konkurrencer, med præmier, hver eneste dag, og der er noget for enhver smag.<br />
                     Vi ligger vægt på hygge, og ikke hård konkurrence og derfor er der også plads til alle ved vores LAN.<br /><br />
@@ -54,7 +54,7 @@ permalink: /sommerlan/
             </ul>
              
                  <ul>
-                <li><h4>Konkurrencer i 2020:</h4></li>
+                <li><h4>Konkurrencer i 2021:</h4></li>
                 <li><p class="flow-text">Søndag: Afsløres i april</p></li>
                 <li><p class="flow-text">Mandag: Afsløres i april</p></li>
                 <li><p class="flow-text">Tirsdag: Afsløres i april</p></li>
@@ -119,7 +119,7 @@ permalink: /sommerlan/
                 </ul>
             </div>
              <div class="row">
-                <h4>Menuen i 2020</h4>
+                <h4>Menuen i 2021</h4>
                 <ul>
                     <li><p class="flow-text">18/7: Afsløres i april</p></li>
                     <li><p class="flow-text">19/7: Afsløres i april</p></li>
@@ -258,7 +258,7 @@ permalink: /sommerlan/
     <section class="section scrollspy amber lighten-5" id="signup">
         <div class="container">
             <h4 class="editable">Pris</h4>
-            <p class="editable flow-text"><i>En plads til LAN koster 750,-</i><br>Er pladsen betalt og ønsker man at framelde sig, skal det gøres inden d 3 juli. kl 18, ellers kan man ikke få sine penge tilbage. Gebyret kan man ikke få retur.<br><br>Det er ikke muligt at få flyttet sin plads når man har købt den. Men vil man gerne flyttes kan dette ske under selve lanet hvis andre er villige til at flytte, eller hvis pladsen er ledig.<br><br>Vi har en madaftale hvor man kan få aftensmad hele ugen for kun 350,- i alt, ønsker man dette skal man bare tilvælge det når man booker sin plads. Husk at sidste chance for at booke aftensmad med sin plads, er d. 3. juli inden midnat.
+            <p class="editable flow-text"><i>En plads til LAN koster 800,-</i><br>Er pladsen betalt og ønsker man at framelde sig, skal det gøres inden d 3 juli. kl 18, ellers kan man ikke få sine penge tilbage. Gebyret kan man ikke få retur.<br><br>Det er ikke muligt at få flyttet sin plads når man har købt den. Men vil man gerne flyttes kan dette ske under selve lanet hvis andre er villige til at flytte, eller hvis pladsen er ledig.<br><br>Vi har en madaftale hvor man kan få aftensmad hele ugen for kun 350,- i alt, ønsker man dette skal man bare tilvælge det når man booker sin plads. Husk at sidste chance for at booke aftensmad med sin plads, er d. 3. juli inden midnat.
 <br><br>
             </p>
         </div>
@@ -266,7 +266,7 @@ permalink: /sommerlan/
     <section>
         <div class="container">
             <div class="tilmelding section scrollspy">
-                <h4>Tilmeldingen åbner den 5. Juni 2020 kl. 12:00</h4>
+                <h4>Tilmeldingen åbner den 2. Maj 2021 kl. 12:00</h4>
                 <p><i>(mobil brugere: for bedre visning, henvises der til desktop)</i></p>
                 <iframe src="https://www.place2book.com/da/choose_seating_sales_workflow?seccode=myo1weax2k" height="700px" width="1280px"></iframe>
             </div>
