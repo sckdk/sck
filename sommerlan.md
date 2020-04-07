@@ -21,6 +21,7 @@ permalink: /sommerlan/
             <div class="row">
               <div class="col s12">
                 <h4>Kom med til en uforglemmelig uge, med nørderi, sjov og konkurrencer!</h4>
+                <h4>SOMMERLAN 2020 AFLYST GRUNDET COVID-19 UDBRUDDET I DANMARK - VI SES I 2021</h4>
               </div>
             </div>
             <div class="row">
