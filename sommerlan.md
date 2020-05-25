@@ -56,12 +56,12 @@ permalink: /sommerlan/
              
                  <ul>
                 <li><h4>Konkurrencer i 2021:</h4></li>
-                <li><p class="flow-text">Søndag: Afsløres i april</p></li>
-                <li><p class="flow-text">Mandag: Afsløres i april</p></li>
-                <li><p class="flow-text">Tirsdag: Afsløres i april</p></li>
-                <li><p class="flow-text">Onsdag: Afsløres i april</p></li>
-                <li><p class="flow-text">Torsdag: Afsløres i april</p></li>
-                <li><p class="flow-text">Fredag: Afsløres i april</p></li>
+                <li><p class="flow-text">Søndag: Afsløres i april 2021</p></li>
+                <li><p class="flow-text">Mandag: Afsløres i april 2021</p></li>
+                <li><p class="flow-text">Tirsdag: Afsløres i april 2021</p></li>
+                <li><p class="flow-text">Onsdag: Afsløres i april 2021</p></li>
+                <li><p class="flow-text">Torsdag: Afsløres i april 2021</p></li>
+                <li><p class="flow-text">Fredag: Afsløres i april 2021</p></li>
               <li><p class="flow-text">Hver dag kl 00.00: Midnatsgalskab</p></li>
             </ul>
             
@@ -122,13 +122,13 @@ permalink: /sommerlan/
              <div class="row">
                 <h4>Menuen i 2021</h4>
                 <ul>
-                    <li><p class="flow-text">17/7: Afsløres i april</p></li>
-                    <li><p class="flow-text">18/7: Afsløres i april</p></li>
-                    <li><p class="flow-text">19/7: Afsløres i april</p></li>
-                    <li><p class="flow-text">20/7: Afsløres i april</p></li>
-                    <li><p class="flow-text">21/7: Afsløres i april</p></li>
-                    <li><p class="flow-text">22/7: Afsløres i april</p></li>
-                    <li><p class="flow-text">23/7: Afsløres i april</p></li>
+                    <li><p class="flow-text">17/7: Afsløres i april 2021</p></li>
+                    <li><p class="flow-text">18/7: Afsløres i april 2021</p></li>
+                    <li><p class="flow-text">19/7: Afsløres i april 2021</p></li>
+                    <li><p class="flow-text">20/7: Afsløres i april 2021</p></li>
+                    <li><p class="flow-text">21/7: Afsløres i april 2021</p></li>
+                    <li><p class="flow-text">22/7: Afsløres i april 2021</p></li>
+                    <li><p class="flow-text">23/7: Afsløres i april 2021</p></li>
                 </ul>
             </div>
 
