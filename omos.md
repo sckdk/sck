@@ -105,7 +105,7 @@ Indkaldelse til ekstraordinær generalforsamling sker på samme måde som ved en
     <p>&sect; 12 - Stemmeret</p>
     <p class="indent">A. Alle foreningens medlemmer som har deltaget ved et af klubbens arrangementer inden for de sidste 12 måneder og er fyldt 15 år, har stemmeret.<br />
     B. Perioden hvor ved stemmeret optjenes går fra generalforsamling til næste generalforsamling.<br />
-    C. Har man kun deltaget ved det Lan hvor generalforsamlingen afholde, gælder ens stemmeret først næste år.
+    C. Har man kun deltaget ved det Lan hvor generalforsamlingen afholdes, gælder ens stemmeret først næste år.
     </p>
     <p>&sect; 13 - Reng&oslash;ring</p>
     <p class="indent">A. Alle medlemmer som er tilstede ved foreningens arrangementer, har pligt til at holde lokalerne i orden, s&aring; der er p&aelig;nt og rent.<br />
