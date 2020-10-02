@@ -5,7 +5,7 @@ permalink: /tilmelding/
 ---
 
 
-<div id="pris" class="section scrollspy"><h2>Pris</h2><p>En plads til LAN koster 150,- via tilmeldingen på hjemmesiden, der tillægges 50,- i eftertilmeldingsgebyr hvis man møder op efter tilmeldingen er lukket</p><h5>Betingelser</h5><p>Er pladsen betalt og &oslash;nsker man at framelde sig, skal det g&oslash;res inden torsdag kl 18. i den uge hvor LANet afholdes, ellers kan man ikke f&aring; sine penge tilbage.<br />Kort gebyret kan man ikke f&aring; retur uanset om det er f&oslash;r eller efter sidste frist.</p></div>
+<div id="pris" class="section scrollspy"><h2>Pris</h2><p>En plads til LAN koster 150,- via tilmeldingen på hjemmesiden. Man kan også bare møde op uden en plads når LANet er åbnet, men der tillægges 50,- i eftertilmeldingsgebyr, så tilmeld jer gerne inden og spar pengene.</p><h5>Betingelser</h5><p>Er pladsen betalt og &oslash;nsker man at framelde sig, skal det g&oslash;res inden torsdag kl 18. i den uge hvor LANet afholdes, ellers kan man ikke f&aring; sine penge tilbage.<br />Kort gebyret kan man ikke f&aring; retur uanset om det er f&oslash;r eller efter sidste frist.</p></div>
 <div class="row">
 <div class="col s12 m4">
 <a href="/sommerlan/#tilmelding" class="btn btn-large dropdown-button deep-orange">Tilmeld dig til Sommerlan her</a>
