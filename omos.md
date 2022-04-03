@@ -101,7 +101,7 @@ Indkaldelse til ekstraordinær generalforsamling sker på samme måde som ved en
     <p class="indent">A. Der kr&aelig;ves mindst 67% flertal af de fremm&oslash;dte medlemmer.</p>
     <p>&sect; 11 - Foreningens opl&oslash;sning</p>
     <p class="indent">A. Der kr&aelig;ves 70% flertal af de fremm&oslash;dte medlemmer, p&aring; 2 uafh&aelig;ngige generalforsamlinger, som afholdes med mindst 14 dages mellemrum og h&oslash;jest 30 dage.<br />
-    B. Foreningens udstyr skal ved opl&oslash;sning s&aelig;lges p&aring; sidste generalforsamling til de fremm&oslash;dte medlemmer. Foreningens midler skal ved opl&oslash;sning g&aring; til en velg&oslash;rende forening, hvilken forening vedtages p&aring; den sidste generalforsamling.
+    B. Foreningens udstyr skal ved opl&oslash;sning s&aelig;lges p&aring; sidste generalforsamling til de fremm&oslash;dte medlemmer. Foreningens midler skal ved opl&oslash;sning g&aring; til en velg&oslash;rende forening, hvilken forening vedtages p&aring; den sidste generalforsamling.<br />
     C. På den sidste generalforsamling skal der nedsættes en gruppe som overtager ansvar samt ejerskabet af klubbens domæner til oprettelse af en mindeside.</p>
     <p>&sect; 12 - Stemmeret</p>
     <p class="indent">A. Alle foreningens medlemmer som har deltaget ved et af klubbens arrangementer inden for de sidste 12 måneder og er fyldt 15 år, har stemmeret.<br />
