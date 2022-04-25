@@ -153,7 +153,7 @@ permalink: /sommerlan/
                 <div class="carousel">
                      <a class="carousel-item z-depth-1" href="#one!"><img src="/uploads/sommerlan/person.jpg" />
                         <div class="carouselDesc">
-                            <h4>Name</h4>
+                            <h4>Morten Wiberg(Stoiss)</h4>
                             <h3>Arrangør</h3>
                                </div>
 
