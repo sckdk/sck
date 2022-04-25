@@ -21,7 +21,7 @@ permalink: /sommerlan/
             <div class="row">
               <div class="col s12">
                 <h4>Kom med til en uforglemmelig uge, med nørderi, sjov og konkurrencer!</h4>
-                <h4>SOMMERLAN 2023 AFLYST</h4>
+                <h4>SOMMERLAN 2022</h4>
               </div>
             </div>
             <div class="row">
