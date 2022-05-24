@@ -172,7 +172,7 @@ permalink: /sommerlan/
                                </div>
 
                     </a>
-                          <a class="carousel-item z-depth-1" href="#four!"><img src="/uploads/sommerlan/person.jpg" />
+                          <a class="carousel-item z-depth-1" href="#four!"><img src="/uploads/sommerlan/hansb.jpg" />
                         <div class="carouselDesc">
                             <h4>Hans Bundgaard (Habs)</h4>
                             <h3>Crew</h3>
@@ -186,21 +186,21 @@ permalink: /sommerlan/
                                </div>
 
                     </a>
-                          <a class="carousel-item z-depth-1" href="#six!"><img src="/uploads/sommerlan/person.jpg" />
+                          <a class="carousel-item z-depth-1" href="#six!"><img src="/uploads/sommerlan/bif.jpg" />
                         <div class="carouselDesc">
                             <h4>Jacob Maabjerg Pradsgaard (Bif)</h4>
                             <h3>Crew</h3>
                                </div>
 
                     </a>
-                          <a class="carousel-item z-depth-1" href="#seven!"><img src="/uploads/sommerlan/person.jpg" />
+                          <a class="carousel-item z-depth-1" href="#seven!"><img src="/uploads/sommerlan/mathiass.jpg" />
                         <div class="carouselDesc">
                             <h4>Mathias Mark Schacksen (Zchaki)</h4>
                             <h3>Crew</h3>
                                </div>
 
                     </a>
-                          <a class="carousel-item z-depth-1" href="#eight!"><img src="/uploads/sommerlan/person.jpg" />
+                          <a class="carousel-item z-depth-1" href="#eight!"><img src="/uploads/sommerlan/larsb.jpg" />
                         <div class="carouselDesc">
                             <h4>Lars Bue Mortensen (Boojar)</h4>
                             <h3>Crew</h3>
