@@ -165,7 +165,7 @@ permalink: /sommerlan/
                                </div>
 
                     </a>
-                          <a class="carousel-item z-depth-1" href="#three!"><img src="/uploads/sommerlan/person.jpg" />
+                          <a class="carousel-item z-depth-1" href="#three!"><img src="/uploads/sommerlan/farantos.jpg" />
                         <div class="carouselDesc">
                             <h4>Morten Olesen Pedersen (Farantos)</h4>
                             <h3>Crew</h3>
@@ -179,7 +179,7 @@ permalink: /sommerlan/
                                </div>
 
                     </a>
-                          <a class="carousel-item z-depth-1" href="#five!"><img src="/uploads/sommerlan/person.jpg" />
+                          <a class="carousel-item z-depth-1" href="#five!"><img src="/uploads/sommerlan/glenn.jpg" />
                         <div class="carouselDesc">
                             <h4>Glenn Diemar Mortensen (Goofy)</h4>
                             <h3>Crew</h3>
