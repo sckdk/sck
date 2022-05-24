@@ -153,35 +153,35 @@ permalink: /sommerlan/
                 <div class="carousel">
                      <a class="carousel-item z-depth-1" href="#one!"><img src="/uploads/sommerlan/person.jpg" />
                         <div class="carouselDesc">
-                            <h4>Morten Wiberg(Stoiss)</h4>
+                            <h4>Morten Wiberg (Stoiss)</h4>
                             <h3>Arrangør</h3>
                                </div>
 
                     </a>
                       <a class="carousel-item z-depth-1" href="#two!"><img src="/uploads/sommerlan/person.jpg" />
                         <div class="carouselDesc">
-                            <h4>Name</h4>
+                            <h4>Jonas Faaborg Jensen (Dvg)</h4>
                             <h3>Crew</h3>
                                </div>
 
                     </a>
                           <a class="carousel-item z-depth-1" href="#three!"><img src="/uploads/sommerlan/person.jpg" />
                         <div class="carouselDesc">
-                            <h4>Name</h4>
+                            <h4>Morten Olesen Pedersen (Farantos)</h4>
                             <h3>Crew</h3>
                                </div>
 
                     </a>
                           <a class="carousel-item z-depth-1" href="#four!"><img src="/uploads/sommerlan/person.jpg" />
                         <div class="carouselDesc">
-                            <h4>Name</h4>
+                            <h4>Hans Bundgaard (Habs)</h4>
                             <h3>Crew</h3>
                                </div>
 
                     </a>
                           <a class="carousel-item z-depth-1" href="#five!"><img src="/uploads/sommerlan/person.jpg" />
                         <div class="carouselDesc">
-                            <h4>Name</h4>
+                            <h4>Glenn Diemar Mortensen (Goofy)</h4>
                             <h3>Crew</h3>
                                </div>
 
@@ -195,21 +195,21 @@ permalink: /sommerlan/
                     </a>
                           <a class="carousel-item z-depth-1" href="#seven!"><img src="/uploads/sommerlan/person.jpg" />
                         <div class="carouselDesc">
-                            <h4>Name</h4>
+                            <h4>Mathias Mark Schacksen (Zchaki)</h4>
                             <h3>Crew</h3>
                                </div>
 
                     </a>
                           <a class="carousel-item z-depth-1" href="#eight!"><img src="/uploads/sommerlan/person.jpg" />
                         <div class="carouselDesc">
-                            <h4>Name</h4>
+                            <h4>Lars Bue Mortensen (Boojar)</h4>
                             <h3>Crew</h3>
                                </div>
 
                     </a>
                           <a class="carousel-item z-depth-1" href="#nine!"><img src="/uploads/sommerlan/person.jpg" />
                         <div class="carouselDesc">
-                            <h4>Name</h4>
+                            <h4>Jacob Maabjerg Pradsgaard (Bif)</h4>
                             <h3>Crew</h3>
                                </div>
 
