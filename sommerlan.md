@@ -151,14 +151,14 @@ permalink: /sommerlan/
             <div class="row">
 
                 <div class="carousel">
-                     <a class="carousel-item z-depth-1" href="#one!"><img src="/uploads/sommerlan/Stoiss.jpg" />
+                     <a class="carousel-item z-depth-1" href="#one!"><img src="/uploads/sommerlan/stoissboss.jpg" />
                         <div class="carouselDesc">
                             <h4>Morten Wiberg (Stoiss)</h4>
                             <h3>Arrangør</h3>
                                </div>
 
                     </a>
-                      <a class="carousel-item z-depth-1" href="#two!"><img src="/uploads/sommerlan/person.jpg" />
+                      <a class="carousel-item z-depth-1" href="#two!"><img src="/uploads/sommerlan/dvg13.jpg" />
                         <div class="carouselDesc">
                             <h4>Jonas Faaborg Jensen (Dvg)</h4>
                             <h3>Crew</h3>
