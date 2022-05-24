@@ -188,7 +188,7 @@ permalink: /sommerlan/
                     </a>
                           <a class="carousel-item z-depth-1" href="#six!"><img src="/uploads/sommerlan/person.jpg" />
                         <div class="carouselDesc">
-                            <h4>Name</h4>
+                            <h4>Jacob Maabjerg Pradsgaard (Bif)</h4>
                             <h3>Crew</h3>
                                </div>
 
@@ -209,7 +209,7 @@ permalink: /sommerlan/
                     </a>
                           <a class="carousel-item z-depth-1" href="#nine!"><img src="/uploads/sommerlan/person.jpg" />
                         <div class="carouselDesc">
-                            <h4>Jacob Maabjerg Pradsgaard (Bif)</h4>
+                            <h4>Name</h4>
                             <h3>Crew</h3>
                                </div>
 
