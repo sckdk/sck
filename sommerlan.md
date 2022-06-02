@@ -31,7 +31,7 @@ permalink: /sommerlan/
                     128 pladser i en hel uge!<br />
                     Alle deltagere får deres helt egen Sommerlan 2022 T-shirt!<br />
                     Pris kun 800,- for hele ugen!<br /><br />
-                    Man kan få varm aftensmad hele ugen for kun 350,-<br /><br />
+                    Man kan få varm aftensmad hele ugen for kun 550,-<br /><br />
                     Vi har 2 konkurrencer, med præmier, hver eneste dag, og der er noget for enhver smag.<br />
                     Vi ligger vægt på hygge, og ikke hård konkurrence og derfor er der også plads til alle ved vores LAN.<br /><br />
                     Sted: <a href="https://goo.gl/maps/hw2eUQyVnuRpZHSp9" target="_blank">Faster aktivitetshus i Astrup</a>
@@ -46,12 +46,12 @@ permalink: /sommerlan/
 
                  <ul>
                 <li><h4>Konkurrencer i 2022:</h4></li>
-                <li><p class="flow-text">Søndag: Afsløres i maj 2022</p></li>
-                <li><p class="flow-text">Mandag: Afsløres i maj 2022</p></li>
-                <li><p class="flow-text">Tirsdag: Afsløres i maj 2022</p></li>
-                <li><p class="flow-text">Onsdag: Afsløres i maj 2022</p></li>
-                <li><p class="flow-text">Torsdag: Afsløres i maj 2022</p></li>
-                <li><p class="flow-text">Fredag: Afsløres i maj 2022</p></li>
+                <li><p class="flow-text">Søndag: Afsløres i Juni 2022</p></li>
+                <li><p class="flow-text">Mandag: Afsløres i Juni 2022</p></li>
+                <li><p class="flow-text">Tirsdag: Afsløres i Juni 2022</p></li>
+                <li><p class="flow-text">Onsdag: Afsløres i Juni 2022</p></li>
+                <li><p class="flow-text">Torsdag: Afsløres i Juni 2022</p></li>
+                <li><p class="flow-text">Fredag: Afsløres i Juni 2022</p></li>
               <li><p class="flow-text">Hver dag kl 00.00: Midnatsgalskab</p></li>
             </ul>
             
@@ -100,13 +100,13 @@ permalink: /sommerlan/
              <div class="row">
                 <h4>Menuen i 2021</h4>
                 <ul>
-                    <li><p class="flow-text">16/7: Afsløres i maj 2022</p></li>
-                    <li><p class="flow-text">17/7: Afsløres i maj 2022</p></li>
-                    <li><p class="flow-text">18/7: Afsløres i maj 2022</p></li>
-                    <li><p class="flow-text">19/7: Afsløres i maj 2022</p></li>
-                    <li><p class="flow-text">20/7: Afsløres i maj 2022</p></li>
-                    <li><p class="flow-text">21/7: Afsløres i maj 2022</p></li>
-                    <li><p class="flow-text">22/7: Afsløres i maj 2022</p></li>
+                    <li><p class="flow-text">16/7: Afsløres i Juni 2022</p></li>
+                    <li><p class="flow-text">17/7: Afsløres i Juni 2022</p></li>
+                    <li><p class="flow-text">18/7: Afsløres i Juni 2022</p></li>
+                    <li><p class="flow-text">19/7: Afsløres i Juni 2022</p></li>
+                    <li><p class="flow-text">20/7: Afsløres i Juni 2022</p></li>
+                    <li><p class="flow-text">21/7: Afsløres i Juni 2022</p></li>
+                    <li><p class="flow-text">22/7: Afsløres i Juni 2022</p></li>
                 </ul>
             </div>
 
@@ -237,7 +237,7 @@ permalink: /sommerlan/
     <section class="section scrollspy amber lighten-5" id="signup">
         <div class="container">
             <h4 class="editable">Pris</h4>
-            <p class="editable flow-text"><i>En plads til LAN koster 800,-</i><br>Er pladsen betalt og ønsker man at framelde sig, skal det gøres inden d 1 juli. kl 18, ellers kan man ikke få sine penge tilbage. Gebyret kan man ikke få retur.<br><br>Det er ikke muligt at få flyttet sin plads når man har købt den. Men vil man gerne flyttes kan dette ske under selve lanet hvis andre er villige til at flytte, eller hvis pladsen er ledig.<br><br>Vi har en madaftale hvor man kan få aftensmad hele ugen for kun 350,- i alt, ønsker man dette skal man bare tilvælge det når man booker sin plads. Husk at sidste chance for at booke aftensmad med sin plads, er d. 1. juli inden midnat.
+            <p class="editable flow-text"><i>En plads til LAN koster 800,-</i><br>Er pladsen betalt og ønsker man at framelde sig, skal det gøres inden d 1 juli. kl 18, ellers kan man ikke få sine penge tilbage. Gebyret kan man ikke få retur.<br><br>Det er ikke muligt at få flyttet sin plads når man har købt den. Men vil man gerne flyttes kan dette ske under selve lanet hvis andre er villige til at flytte, eller hvis pladsen er ledig.<br><br>Vi har en madaftale hvor man kan få aftensmad hele ugen for kun 550,- i alt, ønsker man dette skal man bare tilvælge det når man booker sin plads. Husk at sidste chance for at booke aftensmad med sin plads, er d. 1. juli inden midnat.
 <br><br>
             </p>
         </div>
