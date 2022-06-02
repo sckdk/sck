@@ -246,8 +246,8 @@ permalink: /sommerlan/
         <div class="container">
             <div class="tilmelding section scrollspy">
                 <h4>Tilmeldingen åbner den 5. Juni 2022 kl. 12:00</h4>
-                <a href="[https://place2book.com/da/sw2/sales/event_list/EM4821](https://www.place2book.com/da/sw2/sales/3fu9wa8188)" class="btn btn-large dropdown-button deep-orange">Tilmeld dig til SOMMERLAN her</a>
-                <iframe src="[https://www.place2book.com/da/choose_seating_sales_workflow?seccode=myo1weax2k](https://www.place2book.com/da/sw2/sales/3fu9wa8188)" height="700px" width="1280px"></iframe>
+                <a href="https://www.place2book.com/da/sw2/sales/3fu9wa8188" class="btn btn-large dropdown-button deep-orange">Tilmeld dig til SOMMERLAN her</a>
+                <iframe src="https://www.place2book.com/da/sw2/sales/3fu9wa8188" height="700px" width="1280px"></iframe>
             </div>
         </div>
     </section>
