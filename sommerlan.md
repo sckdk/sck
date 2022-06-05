@@ -46,12 +46,12 @@ permalink: /sommerlan/
 
                  <ul>
                 <li><h4>Konkurrencer i 2022:</h4></li>
-                <li><p class="flow-text">Søndag: Afsløres i Juni 2022</p></li>
-                <li><p class="flow-text">Mandag: Afsløres i Juni 2022</p></li>
-                <li><p class="flow-text">Tirsdag: Afsløres i Juni 2022</p></li>
-                <li><p class="flow-text">Onsdag: Afsløres i Juni 2022</p></li>
-                <li><p class="flow-text">Torsdag: Afsløres i Juni 2022</p></li>
-                <li><p class="flow-text">Fredag: Afsløres i Juni 2022</p></li>
+                <li><p class="flow-text">Søndag: Guilty Gear</p></li>
+                <li><p class="flow-text">Mandag: League of Legends</p></li>
+                <li><p class="flow-text">Tirsdag: Sommer OL</p></li>
+                <li><p class="flow-text">Onsdag: Valorant</p></li>
+                <li><p class="flow-text">Torsdag: Rocket League</p></li>
+                <li><p class="flow-text">Fredag: Flatout 2</p></li>
               <li><p class="flow-text">Hver dag kl 00.00: Midnatsgalskab</p></li>
             </ul>
             
