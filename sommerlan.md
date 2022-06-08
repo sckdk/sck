@@ -207,14 +207,14 @@ permalink: /sommerlan/
                                </div>
 
                     </a>
-                          <a class="carousel-item z-depth-1" href="#nine!"><img src="/uploads/sommerlan/mic-png.jpg" />
+                          <a class="carousel-item z-depth-1" href="#nine!"><img src="/assets/img//mic-png.jpg" />
                         <div class="carouselDesc">
                             <h4>Michael Pedersen (Cyber)</h4>
                             <h3>Crew</h3>
                                </div>
 
                     </a>
-                          <a class="carousel-item z-depth-1" href="#ten!"><img src="/uploads/sommerlan/kim.jpg" />
+                          <a class="carousel-item z-depth-1" href="#ten!"><img src="/assets/img//kim.jpg" />
                         <div class="carouselDesc">
                             <h4>Kim Jensen (Aranel)</h4>
                             <h3>Crew</h3>
