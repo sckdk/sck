@@ -207,9 +207,9 @@ permalink: /sommerlan/
                                </div>
 
                     </a>
-                          <a class="carousel-item z-depth-1" href="#nine!"><img src="/uploads/sommerlan/person.jpg" />
+                          <a class="carousel-item z-depth-1" href="#nine!"><img src="/uploads/sommerlan/mic-png.jpg" />
                         <div class="carouselDesc">
-                            <h4>Name</h4>
+                            <h4>Michael Pedersen (Cyber)</h4>
                             <h3>Crew</h3>
                                </div>
 
