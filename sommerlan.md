@@ -214,9 +214,9 @@ permalink: /sommerlan/
                                </div>
 
                     </a>
-                          <a class="carousel-item z-depth-1" href="#ten!"><img src="/uploads/sommerlan/person.jpg" />
+                          <a class="carousel-item z-depth-1" href="#ten!"><img src="/uploads/sommerlan/kim.jpg" />
                         <div class="carouselDesc">
-                            <h4>Name</h4>
+                            <h4>Kim Jensen (Aranel)</h4>
                             <h3>Crew</h3>
                                </div>
 
