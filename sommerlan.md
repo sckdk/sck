@@ -100,13 +100,13 @@ permalink: /sommerlan/
              <div class="row">
                 <h4>Menuen i 2021</h4>
                 <ul>
-                    <li><p class="flow-text">16/7: Afsløres i Juni 2022</p></li>
-                    <li><p class="flow-text">17/7: Afsløres i Juni 2022</p></li>
-                    <li><p class="flow-text">18/7: Afsløres i Juni 2022</p></li>
-                    <li><p class="flow-text">19/7: Afsløres i Juni 2022</p></li>
-                    <li><p class="flow-text">20/7: Afsløres i Juni 2022</p></li>
-                    <li><p class="flow-text">21/7: Afsløres i Juni 2022</p></li>
-                    <li><p class="flow-text">22/7: Afsløres i Juni 2022</p></li>
+                    <li><p class="flow-text">16/7: Spaghetti kebab med salat</p></li>
+                    <li><p class="flow-text">17/7: Gullash med kartoffelmos</p></li>
+                    <li><p class="flow-text">18/7: Lasagne med salat</p></li>
+                    <li><p class="flow-text">19/7: Bombay kylling bryst med ris</p></li>
+                    <li><p class="flow-text">20/7: Svinemørbrad med championg ala creme og petit kartofler</p></li>
+                    <li><p class="flow-text">21/7: Frikadeller med kartoffelsalat</p></li>
+                    <li><p class="flow-text">22/7: Fyldte pandekager med salat</p></li>
                 </ul>
             </div>
 
