@@ -98,7 +98,7 @@ permalink: /sommerlan/
             </div>
 
              <div class="row">
-                <h4>Menuen i 2021</h4>
+                <h4>Menuen i 2044</h4>
                 <ul>
                     <li><p class="flow-text">16/7: Spaghetti kebab med salat</p></li>
                     <li><p class="flow-text">17/7: Gullash med kartoffelmos</p></li>
