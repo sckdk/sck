@@ -29,8 +29,8 @@ permalink: /sommerlan/
                 <p class="flow-text">
                     Fra d. 16 juli - 23 juli 2022!<br />
                     128 pladser i en hel uge!<br />
-                    Alle deltagere får deres helt egen Sommerlan 2022 T-shirt! hvis billetten er købt senest 1. Juli<br />
-                    Pris kun 800,- for hele ugen!<br /><br />
+                    Alle deltagere får deres helt egen Sommerlan 2022 T-shirt! hvis billetten er købt senest 1. Juli<br /><br />
+                    Pris kun 800,- for hele ugen!<br />
                     Periode 16-20 Juli - 500,00 kr.-!<br />
                     Periode 18-22 Juli - 500,00 kr.-!<br />
                     Periode 19-23 Juli - 500,00 kr.-!<br />
