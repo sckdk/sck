@@ -22,6 +22,7 @@ permalink: /sommerlan/
               <div class="col s12">
                 <h4>Kom med til en uforglemmelig uge, med nørderi, sjov og konkurrencer!</h4>
                 <h4>SOMMERLAN 2022</h4>
+                <BR> <H4> SALGET ER LUKKET MEN DER ER STADIG LEDIGE PLADSER - BARE MØD OP! :) </H4>
               </div>
             </div>
             <div class="row">
