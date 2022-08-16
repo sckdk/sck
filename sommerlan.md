@@ -169,62 +169,6 @@ permalink: /sommerlan/
                                </div>
 
                     </a>
-                          <a class="carousel-item z-depth-1" href="#three!"><img src="/uploads/sommerlan/farantos.jpg" />
-                        <div class="carouselDesc">
-                            <h4>Morten Olesen Pedersen (Farantos)</h4>
-                            <h3>Crew</h3>
-                               </div>
-
-                    </a>
-                          <a class="carousel-item z-depth-1" href="#four!"><img src="/uploads/sommerlan/hansb.jpg" />
-                        <div class="carouselDesc">
-                            <h4>Hans Bundgaard (Habs)</h4>
-                            <h3>Crew</h3>
-                               </div>
-
-                    </a>
-                          <a class="carousel-item z-depth-1" href="#five!"><img src="/uploads/sommerlan/glenn.jpg" />
-                        <div class="carouselDesc">
-                            <h4>Glenn Diemar Mortensen (Goofy)</h4>
-                            <h3>Crew</h3>
-                               </div>
-
-                    </a>
-                          <a class="carousel-item z-depth-1" href="#six!"><img src="/uploads/sommerlan/bif.jpg" />
-                        <div class="carouselDesc">
-                            <h4>Jacob Maabjerg Pradsgaard (Bif)</h4>
-                            <h3>Crew</h3>
-                               </div>
-
-                    </a>
-                          <a class="carousel-item z-depth-1" href="#seven!"><img src="/uploads/sommerlan/mathiass.jpg" />
-                        <div class="carouselDesc">
-                            <h4>Mathias Mark Schacksen (Zchaki)</h4>
-                            <h3>Crew</h3>
-                               </div>
-
-                    </a>
-                          <a class="carousel-item z-depth-1" href="#eight!"><img src="/uploads/sommerlan/larsb.jpg" />
-                        <div class="carouselDesc">
-                            <h4>Lars Bue Mortensen (Boojar)</h4>
-                            <h3>Crew</h3>
-                               </div>
-
-                    </a>
-                          <a class="carousel-item z-depth-1" href="#nine!"><img src="/assets/img//mic-png.jpg" />
-                        <div class="carouselDesc">
-                            <h4>Michael Pedersen (Cyber)</h4>
-                            <h3>Crew</h3>
-                               </div>
-
-                    </a>
-                          <a class="carousel-item z-depth-1" href="#ten!"><img src="/assets/img//kim.jpg" />
-                        <div class="carouselDesc">
-                            <h4>Kim Jensen (Aranel)</h4>
-                            <h3>Crew</h3>
-                               </div>
-
-                    </a>
 
                 </div>
 
