@@ -20,7 +20,7 @@ permalink: /om-skjern-computer-klub/
             </ul></div></div><hr>
     <div class="row profile">
     <div class="col s12 m3 l2">
-    <img alt="" height="480" width="510" src="/assets/img/farantos.JPG" />
+    <img alt="" height="480" width="510" src="/assets/img/farantos.jpg" />
     </div><div class="col s12 m9 l9">
         <ul><li class="formand">Medlem (Kasserer)</li>
     <li class="nick">Farantos</li><li class="name">Morten Olesen Pedersen</li>
