@@ -49,13 +49,13 @@ permalink: /sommerlan/
                 <div class="col s12 m12 l6">
 
                  <ul>
-                <li><h4>Konkurrencer i 2022 - (Konkurrencerne i 2023 offentliggøres d. 15 maj) </h4></li>
-                <li><p class="flow-text">Søndag: Guilty Gear</p></li>
-                <li><p class="flow-text">Mandag: League of Legends</p></li>
-                <li><p class="flow-text">Tirsdag: Sommer OL</p></li>
-                <li><p class="flow-text">Onsdag: Valorant</p></li>
-                <li><p class="flow-text">Torsdag: Rocket League</p></li>
-                <li><p class="flow-text">Fredag: Flatout 2</p></li>
+                <li><h4>Konkurrencer i 2023</h4></li>
+                <li><p class="flow-text">Søndag: TFT League of Legends</p></li>
+                <li><p class="flow-text">Mandag: Minecraft</p></li>
+                <li><p class="flow-text">Tirsdag: Fortnite (Solo)</p></li>
+                <li><p class="flow-text">Onsdag: Sommer OL</p></li>
+                <li><p class="flow-text">Torsdag: Fall Guys</p></li>
+                <li><p class="flow-text">Fredag: Counter Strike Go (Premade Teams)</p></li>
               <li><p class="flow-text">Hver dag kl 00.00: Midnatsgalskab</p></li>
             </ul>
             
@@ -102,15 +102,16 @@ permalink: /sommerlan/
             </div>
 
              <div class="row">
-                <h4>Menuen i 2022 - (Menuen i 2023 offentliggøres d. 15 maj)</h4>
+                <h4>Menuen i 2023</h4>
                 <ul>
-                    <li><p class="flow-text">16/7: Spaghetti kebab med salat</p></li>
-                    <li><p class="flow-text">17/7: Gullash med kartoffelmos</p></li>
-                    <li><p class="flow-text">18/7: Lasagne med salat</p></li>
-                    <li><p class="flow-text">19/7: Bombay kylling bryst med ris</p></li>
-                    <li><p class="flow-text">20/7: Svinemørbrad med championg ala creme og petit kartofler</p></li>
-                    <li><p class="flow-text">21/7: Frikadeller med kartoffelsalat</p></li>
-                    <li><p class="flow-text">22/7: Fyldte pandekager med salat</p></li>
+                    <li><p class="flow-text">15/7: Mørbradgryde</p></li>
+                    <li><p class="flow-text">16/7: Glaseret skinke med sennep og farin, Frikadeller</p></li>
+                    <li><p class="flow-text">17/7: Marineret svinekam, Kyllingebryst med flødeost og Mozzarella</p></li>
+                    <li><p class="flow-text">18/7: Lasagne</p></li>
+                    <li><p class="flow-text">19/7: Kold Buffet</p></li>
+                    <li><p class="flow-text">20/7: Andebryst med Teriyaki, Svinemørbrad m. fyld</p></li>
+                    <li><p class="flow-text">21/7: Boller i karry</p></li>
+                    <li><p class="flow-text">- Maden serveres alle dage med et udvalg af salater og andet tilbehør -</p></li>
                 </ul>
             </div>
 
@@ -185,7 +186,7 @@ permalink: /sommerlan/
     <section class="section scrollspy amber lighten-5" id="signup">
         <div class="container">
             <h4 class="editable">Pris</h4>
-            <p class="editable flow-text"><i>En plads til LAN koster 800,-</i><br>Er pladsen betalt og ønsker man at framelde sig, skal det gøres inden d 1 juli. kl 18, ellers kan man ikke få sine penge tilbage. Gebyret kan man ikke få retur.<br><br>Det er ikke muligt at få flyttet sin plads når man har købt den. Men vil man gerne flyttes kan dette ske under selve lanet hvis andre er villige til at flytte, eller hvis pladsen er ledig.<br><br>Vi har en madaftale hvor man kan få aftensmad hele ugen for kun 550,- i alt, ønsker man dette skal man bare tilvælge det når man booker sin plads. Husk at sidste chance for at booke aftensmad med sin plads, er d. 1. juli inden midnat.
+            <p class="editable flow-text"><i>En plads til LAN koster 800,-</i><br>Er pladsen betalt og ønsker man at framelde sig, skal det gøres inden d 1 juli. kl 18, ellers kan man ikke få sine penge tilbage. Gebyret kan man ikke få retur.<br><br>Det er ikke muligt at få flyttet sin plads når man har købt den. Men vil man gerne flyttes kan dette ske under selve lanet hvis andre er villige til at flytte, eller hvis pladsen er ledig.<br><br>Vi har en madaftale hvor man kan få aftensmad hele ugen for kun 600,- i alt, ønsker man dette skal man bare tilvælge det når man booker sin plads. Husk at sidste chance for at booke aftensmad med sin plads, er d. 1. juli inden midnat.
 <br><br>
             </p>
         </div>
@@ -199,7 +200,7 @@ permalink: /sommerlan/
           <!--  <div class="tilmelding section scrollspy">
 -->
                 <h4>Tilmeldingen åbner den 15. Maj 2023 kl. 12:00</h4>
-               <a href="https://www.place2book.com/da/sw2/sales/3fu9wa8188" class="btn btn-large dropdown-button deep-orange">Tilmeld dig til SOMMERLAN her</a>
+               <a href="https://www.place2book.com/da/sw2/sales/spwtxlcgix" class="btn btn-large dropdown-button deep-orange">Tilmeld dig til SOMMERLAN her</a>
           <!--   
               <iframe src="https://www.place2book.com/da/sw2/sales/3fu9wa8188" height="700px" width="1280px"></iframe>
         -->
