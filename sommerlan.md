@@ -35,7 +35,7 @@ permalink: /sommerlan/
                     Periode 16-20 Juli - 500,00 kr.- - Salget starter d. 15 juni <br />
                     Periode 17-21 Juli - 500,00 kr.- - Salget starter d. 15 juni<br />
               NB! Alle perioderne er fra kl. 12.00 - kl. 12.00<br /><br />
-                    Man kan få varm aftensmad hele ugen for kun 550,- ved bestilling senest 1. Juli<br /><br />
+                    Man kan få varm aftensmad hele ugen for kun 600,- ved bestilling senest 1. Juli<br /><br />
                     Vi har 2 konkurrencer, med præmier, hver eneste dag, og der er noget for enhver smag.<br />
                     Vi ligger vægt på hygge, og ikke hård konkurrence og derfor er der også plads til alle ved vores LAN.<br /><br />
                     Sted: <a href="https://goo.gl/maps/hw2eUQyVnuRpZHSp9" target="_blank">Faster aktivitetshus i Astrup</a>
