@@ -27,16 +27,16 @@ permalink: /sommerlan/
             <div class="row">
               <div class="col s12 m12 l8">
                 <p class="flow-text">
-                    Fra d. 15 juli - 22 juli 2023!<br />
+                    Fra d. 13 juli - 20 juli 2024!<br />
                     128 pladser i en hel uge!<br />
-                    Alle deltagere får deres helt egen Sommerlan 2023 T-shirt! hvis billetten er købt senest 1. Juli<br /><br />
+                    Alle deltagere får deres helt egen Sommerlan 2024 T-shirt! hvis billetten er købt senest 1. Juli<br /><br />
                     Pris kun 800,- for hele ugen! - Salget starter d. 15 maj <br />
+                    Periode 14-18 Juli - 500,00 kr.- - Salget starter d. 15 juni <br />
                     Periode 15-19 Juli - 500,00 kr.- - Salget starter d. 15 juni <br />
-                    Periode 16-20 Juli - 500,00 kr.- - Salget starter d. 15 juni <br />
-                    Periode 17-21 Juli - 500,00 kr.- - Salget starter d. 15 juni<br />
+                    Periode 16-20 Juli - 500,00 kr.- - Salget starter d. 15 juni<br />
               NB! Alle perioderne er fra kl. 12.00 - kl. 12.00<br /><br />
-                    Man kan få varm aftensmad hele ugen for kun 600,- ved bestilling senest 1. Juli<br /><br />
-                    Vi har 2 konkurrencer, med præmier, hver eneste dag, og der er noget for enhver smag.<br />
+                    Man kan få varm aftensmad hele ugen for kun 600,- (forbehold for prisændring) ved bestilling senest 1. Juli<br /><br />
+                    Vi har 10+ konkurrencer, med præmier, fordelt henover hele ugen, og der er noget for enhver smag.<br />
                     Vi ligger vægt på hygge, og ikke hård konkurrence og derfor er der også plads til alle ved vores LAN.<br /><br />
                     Sted: <a href="https://goo.gl/maps/hw2eUQyVnuRpZHSp9" target="_blank">Faster aktivitetshus i Astrup</a>
                 </p>
@@ -228,7 +228,7 @@ permalink: /sommerlan/
         <div class="container">
           <!--  <div class="tilmelding section scrollspy">
 -->
-                <h4>Tilmeldingen åbner den 15. Maj 2023 kl. 12:00</h4>
+                <h4>Tilmeldingen åbner den 15. Maj 2024 kl. 12:00</h4>
                <a href="https://www.place2book.com/da/sw2/sales/spwtxlcgix" class="btn btn-large dropdown-button deep-orange">Tilmeld dig til SOMMERLAN her</a>
           <!--   
               <iframe src="https://www.place2book.com/da/sw2/sales/3fu9wa8188" height="700px" width="1280px"></iframe>
