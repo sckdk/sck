@@ -170,7 +170,7 @@ permalink: /sommerlan/
                                </div>
 
                     </a>
- <a class="carousel-item z-depth-1" href="#three!"><img src="/uploads/sommerlan/farantos.jpg" />
+             <a class="carousel-item z-depth-1" href="#three!"><img src="/uploads/sommerlan/farantos.jpg" />
                         <div class="carouselDesc">
                             <h4>Morten Olesen (Farantos)</h4>
                             <h3>Crew</h3>
