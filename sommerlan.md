@@ -21,7 +21,7 @@ permalink: /sommerlan/
             <div class="row">
               <div class="col s12">
                 <h4>Kom med til en uforglemmelig uge, med nørderi, sjov og konkurrencer!</h4>
-                <h4>SOMMERLAN 2023</h4>
+                <h4>SOMMERLAN 2024</h4>
               </div>
             </div>
             <div class="row">
@@ -123,7 +123,7 @@ permalink: /sommerlan/
 
             <div class="row">
                 <h4 class="editable section scrollspy" id="huskelisten">Huskelisten</h4>
-                <p class="flow-text">PC - Skærm - mus - tastatur - Strømkabler - Musemåtte - ørebøffer - mobillader.<br />Noget at sove på og i. (IKKE EN DOBBELTMADRAS!!)<br />Penge til mad og snacks.<br />Håndklæde - sæbe - badetøj - ekstra tøj.<br />&nbsp;<br />Ting du ikke skal have med: (For det har vi)<br />Netværkskabel - Stikdåse - Kaffemaskine - Køleskab - Elkedel.</p>
+                <p class="flow-text">PC - Skærm - mus - tastatur - Strømkabler - Musemåtte - ørebøffer - mobillader.<br />Noget at sove på og i. (IKKE EN DOBBELTMADRAS!!)<br />Penge til mad og snacks. (Vi tager kun imod MobilePay) <br />Håndklæde - sæbe - badetøj - ekstra tøj.<br />&nbsp;<br />Ting du ikke skal have med: (For det har vi)<br />Netværkskabel - Stikdåse - Kaffemaskine - Køleskab - Elkedel.</p>
             </div>
 
             <div class="row">
@@ -137,7 +137,7 @@ permalink: /sommerlan/
                     <p class="flow-text">
     Vi har 128 pladser og de sælges efter "først til mølle" princippet.
     Samtidigt har vi en lille kiosk, hvor man kan købe chips og sodavand.
-    Har man selv noget med, har vi også et køleskab som man kan benytte.
+    Har man selv mad med, har vi også et køleskab og fryser som man kan benytte. (Men begrænset plads)
                     </p>
                 </div>
             </div>
