@@ -30,10 +30,10 @@ permalink: /sommerlan/
                     Fra d. 13 juli - 20 juli 2024!<br />
                     128 pladser i en hel uge!<br />
                     Alle deltagere får deres helt egen Sommerlan 2024 T-shirt! hvis billetten er købt senest 1. Juli<br /><br />
-                    Pris kun 800,- for hele ugen! - Salget starter d. 15 maj <br />
-                    Periode 14-18 Juli - 500,00 kr.- - Salget starter d. 15 juni <br />
-                    Periode 15-19 Juli - 500,00 kr.- - Salget starter d. 15 juni <br />
-                    Periode 16-20 Juli - 500,00 kr.- - Salget starter d. 15 juni<br />
+                    Pris kun 800,- for hele ugen! - Salget starter d. 1 juni <br />
+                    Periode 14-18 Juli - 500,00 kr.- - Salget starter d. 2 juli <br />
+                    Periode 15-19 Juli - 500,00 kr.- - Salget starter d. 2 juli <br />
+                    Periode 16-20 Juli - 500,00 kr.- - Salget starter d. 2 juli <br />
               NB! Alle perioderne er fra kl. 12.00 - kl. 12.00<br /><br />
                     Man kan få varm aftensmad hele ugen for kun 600,- (forbehold for prisændring) ved bestilling senest 1. Juli<br /><br />
                     Vi har 10+ konkurrencer, med præmier, fordelt henover hele ugen, og der er noget for enhver smag.<br />
@@ -204,7 +204,7 @@ permalink: /sommerlan/
         <div class="container">
           <!--  <div class="tilmelding section scrollspy">
 -->
-                <h4>Tilmeldingen åbner den 15. Maj 2024 kl. 12:00</h4>
+                <h4>Tilmeldingen åbner den 1. Juni 2024 kl. 12:00</h4>
                <a href="https://www.place2book.com/da/sw2/sales/spwtxlcgix" class="btn btn-large dropdown-button deep-orange">Tilmeld dig til SOMMERLAN her</a>
           <!--   
               <iframe src="https://www.place2book.com/da/sw2/sales/3fu9wa8188" height="700px" width="1280px"></iframe>
