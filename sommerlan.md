@@ -27,11 +27,11 @@ permalink: /sommerlan/
             <div class="row">
               <div class="col s12 m12 l8">
                 <p class="flow-text">
-                    Fra d. 13 juli - 20 juli 2024!<br />
+                    Fra d. 13 juli kl. 12.00 - 20 juli kl. 12.00 2024!<br />
                     128 pladser i en hel uge!<br />
                     Alle deltagere får deres helt egen Sommerlan 2024 T-shirt! hvis billetten er købt senest 1. Juli<br /><br />
                     Pris kun 800,- for hele ugen! - Salget starter d. 1 juni <br />
-              NB! Alle perioderne er fra kl. 12.00 - kl. 12.00<br /><br />
+                  
                     Man kan få varm aftensmad hele ugen for kun 600,- (forbehold for prisændring) ved bestilling senest 1. Juli<br /><br />
                     Vi har 10+ konkurrencer, med præmier, fordelt henover hele ugen, og der er noget for enhver smag.<br />
                     Vi ligger vægt på hygge, og ikke hård konkurrence og derfor er der også plads til alle ved vores LAN.<br /><br />
