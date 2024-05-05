@@ -31,9 +31,6 @@ permalink: /sommerlan/
                     128 pladser i en hel uge!<br />
                     Alle deltagere får deres helt egen Sommerlan 2024 T-shirt! hvis billetten er købt senest 1. Juli<br /><br />
                     Pris kun 800,- for hele ugen! - Salget starter d. 1 juni <br />
-                    Periode 14-18 Juli - 500,00 kr.- - Salget starter d. 2 juli <br />
-                    Periode 15-19 Juli - 500,00 kr.- - Salget starter d. 2 juli <br />
-                    Periode 16-20 Juli - 500,00 kr.- - Salget starter d. 2 juli <br />
               NB! Alle perioderne er fra kl. 12.00 - kl. 12.00<br /><br />
                     Man kan få varm aftensmad hele ugen for kun 600,- (forbehold for prisændring) ved bestilling senest 1. Juli<br /><br />
                     Vi har 10+ konkurrencer, med præmier, fordelt henover hele ugen, og der er noget for enhver smag.<br />
