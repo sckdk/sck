@@ -153,19 +153,23 @@ permalink: /sommerlan/
                             <h4>Morten (Farantos)</h4>
                             <h3>Crew</h3>
                                </div>
-                               
+
+
+                                </a>    
                                  <a class="carousel-item z-depth-1" href="#four!"><img src="/uploads/sommerlan/hansb.jpg" />
                         <div class="carouselDesc">
                             <h4>Hans (Habs)</h4>
                             <h3>Crew</h3>
                                </div>
-                               
+                            
+    </a>    
                                  <a class="carousel-item z-depth-1" href="#five!"><img src="/uploads/sommerlan/person.jpg" />
                         <div class="carouselDesc">
                             <h4>Peter (Papper P)</h4>
                             <h3>Crew</h3>
                                </div>
-                               
+                              
+    </a>  
                                  <a class="carousel-item z-depth-1" href="#six!"><img src="/uploads/sommerlan/bif.jpg" />
                         <div class="carouselDesc">
                             <h4>Jacob (JacobBif)</h4>
