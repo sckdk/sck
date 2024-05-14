@@ -31,7 +31,6 @@ permalink: /sommerlan/
                     128 pladser i en hel uge!<br />
                     Alle deltagere får deres helt egen Sommerlan 2024 T-shirt! hvis billetten er købt senest 1. Juli<br /><br />
                     Pris kun 800,- for hele ugen! - Salget starter d. 1 juni <br />
-                    Man kan få varm aftensmad hele ugen for kun 600,- ved bestilling senest 1. Juli<br /><br />
                     Vi har 10+ konkurrencer, med præmier, fordelt henover hele ugen, og der er noget for enhver smag.<br />
                     Vi lægger vægt på hygge, og ikke hård konkurrence og derfor er der også plads til alle ved vores LAN.<br /><br />
                     Sted: <a href="https://goo.gl/maps/hw2eUQyVnuRpZHSp9" target="_blank">Faster aktivitetshus i Astrup</a>
@@ -95,20 +94,6 @@ permalink: /sommerlan/
             </div>
             <div class="row">
                <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8923.112642540878!2d8.5934721!3d56.0051952!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x500d614803052db1!2sFaster+Aktivitetshus!5e0!3m2!1sda!2sdk!4v1556524098570!5m2!1sda!2sdk" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-            </div>
-
-             <div class="row">
-                <h4>Menuen i 2023</h4>
-                <ul>
-                    <li><p class="flow-text">15/7: Mørbradgryde</p></li>
-                    <li><p class="flow-text">16/7: Glaseret skinke med sennep og farin, Frikadeller</p></li>
-                    <li><p class="flow-text">17/7: Marineret svinekam, Kyllingebryst med flødeost og Mozzarella</p></li>
-                    <li><p class="flow-text">18/7: Lasagne</p></li>
-                    <li><p class="flow-text">19/7: Kold Buffet</p></li>
-                    <li><p class="flow-text">20/7: Andebryst med Teriyaki, Svinemørbrad m. fyld</p></li>
-                    <li><p class="flow-text">21/7: Boller i karry</p></li>
-                    <li><p class="flow-text">- Maden serveres alle dage med et udvalg af salater og andet tilbehør -</p></li>
-                </ul>
             </div>
 
             <div class="row">
@@ -187,8 +172,7 @@ permalink: /sommerlan/
     <section class="section scrollspy amber lighten-5" id="signup">
         <div class="container">
             <h4 class="editable">Pris</h4>
-            <p class="editable flow-text"><i>En plads til LAN koster 800,-</i><br>Er pladsen betalt og ønsker man at framelde sig, skal det gøres inden d 1 juli. kl 18, ellers kan man ikke få sine penge tilbage. Gebyret kan man ikke få retur.<br><br>Det er ikke muligt at få flyttet sin plads når man har købt den. Men vil man gerne flyttes kan dette ske under selve lanet hvis andre er villige til at flytte, eller hvis pladsen er ledig.<br><br>Vi har en madaftale hvor man kan få aftensmad hele ugen for kun 600,- i alt, ønsker man dette skal man bare tilvælge det når man booker sin plads. Husk at sidste chance for at booke aftensmad med sin plads, er d. 1. juli inden midnat.
-<br><br>
+            <p class="editable flow-text"><i>En plads til LAN koster 800,-</i><br>Er pladsen betalt og ønsker man at framelde sig, skal det gøres inden d 1 juli. kl 18, ellers kan man ikke få sine penge tilbage. Gebyret kan man ikke få retur.<br><br>Det er ikke muligt at få flyttet sin plads når man har købt den. Men vil man gerne flyttes kan dette ske under selve lanet hvis andre er villige til at flytte, eller hvis pladsen er ledig.
             </p>
         </div>
     </section>
