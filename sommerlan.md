@@ -27,9 +27,8 @@ permalink: /sommerlan/
             <div class="row">
               <div class="col s12 m12 l8">
                 <p class="flow-text">
-                    - Fra d. 13 juli kl. 12.00 - 20 juli kl. 12.00 2024!<br />
-                    - Pris kun 800,- for hele ugen! - +200,- for dobbeltplads<br />
-                    - 128 pladser <br />
+                    - Fra d. 13 juli kl. 12.00 - 20 juli kl. 12.00 - 2024!<br />
+                    - Pris kun 800,- for hele ugen! - + 200,- for dobbeltplads<br />
                     - Sommerlan 2024 T-shirt! hvis billetten er købt senest 1. Juli<br /><br />
                     - 10 konkurrencer med præmier fordelt henover hele ugen <br />
                  
