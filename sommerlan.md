@@ -31,7 +31,8 @@ permalink: /sommerlan/
                     128 pladser i en hel uge!<br />
                     Alle deltagere får deres helt egen Sommerlan 2024 T-shirt! hvis billetten er købt senest 1. Juli<br /><br />
                     Pris kun 800,- for hele ugen! - Salget starter d. 1 juni <br />
-                    Vi har 10+ konkurrencer, med præmier, fordelt henover hele ugen, og der er noget for enhver smag.<br />
+                    Ønsker man en dobbelt så stor plads, kan man tilkøbe det for 200,- ved tilmelding <br />
+                    Vi har 10 konkurrencer, med præmier, fordelt henover hele ugen, og der er noget for enhver smag.<br />
                     Vi lægger vægt på hygge, og ikke hård konkurrence og derfor er der også plads til alle ved vores LAN.<br /><br />
                     Sted: <a href="https://goo.gl/maps/hw2eUQyVnuRpZHSp9" target="_blank">Faster aktivitetshus i Astrup</a>
                 </p>
