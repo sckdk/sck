@@ -173,9 +173,7 @@ permalink: /sommerlan/
                             <h3>Crew</h3>
                                </div>
 
-                    </a>
-                </div>
-
+                    </a>          
             </div>
         </div>
     </section>
