@@ -147,9 +147,8 @@ permalink: /sommerlan/
                             <h3>Crew</h3>
                                </div>
 
-                    </a>
-                    
-             <a class="carousel-item z-depth-1" href="#three!"><img src="/uploads/sommerlan/farantos.jpg" />
+                    </a>                    
+                      <a class="carousel-item z-depth-1" href="#three!"><img src="/uploads/sommerlan/farantos.jpg" />
                         <div class="carouselDesc">
                             <h4>Morten (Farantos)</h4>
                             <h3>Crew</h3>
