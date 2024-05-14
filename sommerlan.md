@@ -44,13 +44,10 @@ permalink: /sommerlan/
                 <div class="col s12 m12 l6">
 
                  <ul>
-                <li><h4>Konkurrencer i 2023</h4></li>
-                <li><p class="flow-text">Søndag: TFT League of Legends</p></li>
-                <li><p class="flow-text">Mandag: Minecraft</p></li>
-                <li><p class="flow-text">Tirsdag: Fortnite (Solo)</p></li>
-                <li><p class="flow-text">Onsdag: Sommer OL</p></li>
-                <li><p class="flow-text">Torsdag: Fall Guys</p></li>
-                <li><p class="flow-text">Fredag: Counter Strike Go (Premade Teams)</p></li>
+                <li><h4>Konkurrencer i 2024</h4></li>
+                <li><p class="flow-text">Søndag: Mario Kart Championship</p></li>         
+                <li><p class="flow-text">Tirsdag: The Final Sommer OL</p></li>             
+                <li><p class="flow-text">Torsdag: Fortnite Arena Games</p></li>           
               <li><p class="flow-text">Hver dag kl 00.00: Midnatsgalskab</p></li>
             </ul>
             
@@ -139,23 +136,43 @@ permalink: /sommerlan/
                 <div class="carousel">
                      <a class="carousel-item z-depth-1" href="#one!"><img src="/uploads/sommerlan/stoissboss.jpg" />
                         <div class="carouselDesc">
-                            <h4>Morten Wiberg (Stoiss)</h4>
+                            <h4>Morten (Stoiss)</h4>
                             <h3>Arrangør</h3>
                                </div>
 
                     </a>
                       <a class="carousel-item z-depth-1" href="#two!"><img src="/uploads/sommerlan/dvg13.jpg" />
                         <div class="carouselDesc">
-                            <h4>Jonas Faaborg Jensen (Dvg)</h4>
+                            <h4>Jonas (Dvg)</h4>
                             <h3>Crew</h3>
                                </div>
 
                     </a>
+                    
              <a class="carousel-item z-depth-1" href="#three!"><img src="/uploads/sommerlan/farantos.jpg" />
                         <div class="carouselDesc">
-                            <h4>Morten Olesen (Farantos)</h4>
+                            <h4>Morten (Farantos)</h4>
                             <h3>Crew</h3>
                                </div>
+                               
+                                 <a class="carousel-item z-depth-1" href="#four!"><img src="/uploads/sommerlan/hansb.jpg" />
+                        <div class="carouselDesc">
+                            <h4>Hans (Habs)</h4>
+                            <h3>Crew</h3>
+                               </div>
+                               
+                                 <a class="carousel-item z-depth-1" href="#five!"><img src="/uploads/sommerlan/nerd.jpg" />
+                        <div class="carouselDesc">
+                            <h4>Peter (Papper P)</h4>
+                            <h3>Crew</h3>
+                               </div>
+                               
+                                 <a class="carousel-item z-depth-1" href="#six!"><img src="/uploads/sommerlan/bif.jpg" />
+                        <div class="carouselDesc">
+                            <h4>Jacob (JacobBif)</h4>
+                            <h3>Crew</h3>
+                               </div>
+
                     </a>
                 </div>
 
