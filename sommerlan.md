@@ -206,9 +206,9 @@ permalink: /sommerlan/
            <div class="tilmelding section scrollspy">
           <h4>Tilmeldingen åbner den 1. Juni 2024 kl. 12:00</h4>
                <a href="https://www.place2book.com/da/sw2/sales/6ghcqzvw47" class="btn btn-large dropdown-button deep-orange">Tilmeld dig til SOMMERLAN her</a>
-        
+  <!--   
               <iframe src="https://www.place2book.com/da/sw2/sales/3fu9wa8188" height="700px" width="1280px"></iframe>
-         
+        -->
  </div>
 
         </div>
