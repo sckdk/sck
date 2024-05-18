@@ -21,14 +21,14 @@ permalink: /sommerlan/
             <div class="row">
               <div class="col s12">
                 <h4>Kom med til en uforglemmelig uge, med nørderi, sjov og konkurrencer!</h4>
-                <h4>SOMMERLAN 2024</h4>
+                <h4>THE FINAL SOMMERLAN 2024</h4>
               </div>
             </div>
             <div class="row">
               <div class="col s12 m12 l8">
                 <p class="flow-text">
                     - Fra d. 13 juli kl. 12.00 - 20 juli kl. 12.00 - 2024!<br />
-                    - Pris kun 800,- for hele ugen! - + 200,- for dobbeltplads<br />
+                    - Pris kun 800,- for hele ugen! + 200,- hvis man ønsker dobbeltplads<br />
                     - Sommerlan 2024 T-shirt! hvis billetten er købt senest 1. Juli<br /><br />
            
                  
