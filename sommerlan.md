@@ -31,6 +31,8 @@ permalink: /sommerlan/
                     - Pris kun 800,- for hele ugen! + 200,- hvis man ønsker dobbeltplads<br />
                     - Sommerlan 2024 T-shirt! hvis billetten er købt senest 1. Juli<br /><br />
            
+
+- SommerLan 2024 bliver vores sidste, så lad os lave en fest ud af det! <br /><br />
                  
       
                     Vi lægger vægt på hygge, og ikke hård konkurrence og derfor er der også plads til alle ved vores LAN.<br /><br />
