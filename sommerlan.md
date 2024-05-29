@@ -166,7 +166,7 @@ permalink: /sommerlan/
                                </div>
                             
     </a>    
-                                 <a class="carousel-item z-depth-1" href="#five!"><img src="/uploads/sommerlan/person.jpg" />
+                                 <a class="carousel-item z-depth-1" href="#five!"><img src="/uploads/sommerlan/peter.jpg" />
                         <div class="carouselDesc">
                             <h4>Peter (Papper P)</h4>
                             <h3>Crew</h3>
