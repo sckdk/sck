@@ -180,7 +180,13 @@ permalink: /sommerlan/
                                </div>
 
                     </a>     
-                       
+                          <a class="carousel-item z-depth-1" href="#seven!"><img src="/uploads/sommerlan/spellmix.jpg" />
+                        <div class="carouselDesc">
+                            <h4>Pætur (Spellmix)</h4>
+                            <h3>Crew</h3>
+                               </div>
+
+                    </a>     
                        
                 </div>        
             </div>
