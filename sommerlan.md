@@ -21,7 +21,7 @@ permalink: /sommerlan/
             <div class="row">
               <div class="col s12">
                 <h4>Kom med til en uforglemmelig uge, med nørderi, sjov og konkurrencer!</h4>
-                <h4>THE FINAL SOMMERLAN 2024</h4>
+                <h4>AFLYST - THE FINAL SOMMERLAN 2024 - AFLYST</h4>
               </div>
             </div>
             <div class="row">
