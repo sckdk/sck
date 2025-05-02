@@ -7,7 +7,7 @@ permalink: /om-skjern-computer-klub/
 <style>p.indent2{ padding-left: 3.6em }</style>
 
 <div id="omos" class="section scrollspy"><h2>Om Skjern Computer Klub</h2>
-    <p>Skjern Computer Klub har nu eksisteret i over 25 &aring;r.<br />Vores m&aring;l har fra starten v&aelig;ret, at bringe unge computer interesserede sammen i til godt samv&aelig;r og venskab.<br />Vi er en forening som i h&oslash;j grad bygger p&aring; frivillige kr&aelig;fter, hygge, konkurrence og f&aelig;llesskab.<br />
+    <p>Skjern Computer Klub har nu eksisteret i over 35 &aring;r.<br />Vores m&aring;l har fra starten v&aelig;ret, at bringe unge computer interesserede sammen i til godt samv&aelig;r og venskab.<br />Vi er en forening som i h&oslash;j grad bygger p&aring; frivillige kr&aelig;fter, hygge, konkurrence og f&aelig;llesskab.<br />
     Vores fortsatte m&aring;l, er at g&oslash;re computerspil til et socialt samlingspunkt for unge i Skjern og omegn.<br />
         Vores klub er &aring;ben for alle, og vores typiske LAN deltagere er mellem 12 og 45 &aring;r.</p>
 </div>
