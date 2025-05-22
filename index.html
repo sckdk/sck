@@ -19,24 +19,61 @@
             margin: 0;
             padding: 0;
         }
-     header {
-    background-color: #222;
-    color: white;
-    padding: 20px;
-    text-align: center;
-}
-        header img {
-            max-height: 100px;
+
+        header {
+            background-color: #222;
+            color: white;
+            padding: 20px;
+            text-align: center;
         }
-        header h1 {
+
+        .header-content {
+            display: grid;
+            grid-template-columns: auto 1fr auto;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .header-content img {
+            max-height: 80px;
+            height: auto;
+            width: auto;
+            max-width: 150px;
+        }
+
+        .header-content h1 {
             margin: 0;
-            font-size: 32px;
+            font-size: 2rem;
         }
+
+        header p {
+            margin-top: 10px;
+            font-size: 1rem;
+            text-align: center;
+        }
+
+        @media (max-width: 600px) {
+            .header-content {
+                grid-template-columns: 1fr;
+                justify-items: center;
+            }
+
+            .header-content img {
+                max-height: 60px;
+                max-width: 120px;
+            }
+
+            .header-content h1 {
+                font-size: 1.5rem;
+            }
+        }
+
         main {
             padding: 40px 20px;
             max-width: 1000px;
             margin: auto;
         }
+
         section {
             background-color: white;
             padding: 20px;
@@ -44,15 +81,18 @@
             box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
             margin-bottom: 30px;
         }
+
         h2 {
             color: #555;
         }
+
         iframe {
             width: 100%;
             height: 400px;
             border: none;
             border-radius: 8px;
         }
+
         a.button {
             display: inline-block;
             background-color: #007BFF;
@@ -62,90 +102,52 @@
             border-radius: 5px;
             margin-top: 10px;
         }
+
         a.button:hover {
             background-color: #0056b3;
         }
+
         footer {
             background-color: #222;
             color: white;
             padding: 20px;
             text-align: center;
         }
-
-.header-content {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 20px;
-    text-align: center;
-}
-
-.header-content h1 {
-    margin: 0;
-    font-size: 2rem;
-    flex: 1 1 auto;
-}
-
-.header-content img {
-    max-height: 80px;
-    height: auto;
-    width: auto;
-    max-width: 150px;
-    flex-shrink: 0;
-}
-
-@media (max-width: 600px) {
-    .header-content {
-        flex-direction: column;
-    }
-
-    .header-content img {
-        max-height: 60px;
-        max-width: 120px;
-    }
-
-    .header-content h1 {
-        font-size: 1.5rem;
-    }
-}
     </style>
 </head>
-
-<header>
-  <div class="header-content">
-    <img src="Logo2.png" alt="SCK Left Logo" class="logo-left" />
-    <h1>Skjern Computer Klub (SCK)</h1>
-    <img src="Logo.png" alt="SCK Right Logo" class="logo-right" />
-  </div>
-  <p>Et sted at mindes de gode tider og holde fællesskabet i live</p>
-</header>
-
 <body>
+    <header>
+        <div class="header-content">
+            <img src="Logo2.png" alt="SCK Left Logo" class="logo-left" />
+            <h1>Skjern Computer Klub (SCK)</h1>
+            <img src="Logo.png" alt="SCK Right Logo" class="logo-right" />
+        </div>
+        <p>Et sted at mindes de gode tider og holde fællesskabet i live</p>
+    </header>
+
     <main>
         <section class="intro">
             <h2>Hvem var vi?</h2>
             <p>Skjern Computer Klub (SCK) samlede gamere og teknikinteresserede til sjove og sociale LAN-parties fyldt med spil, konkurrencer og hygge. Foreningen er nu lukket, men fællesskabet lever videre på Discord.</p>
         </section>
 
-   <section class="youtube">
+        <section class="youtube">
             <h2>Video Minder</h2>
             <p>Gense vores videoer og mindes de gode stunder:</p>
             <iframe src="https://www.youtube.com/embed?listType=user_uploads&list=SkjernComputerKlub"></iframe>
         </section>
 
-  <section class="discord">
+        <section class="discord">
             <h2>Vores Discord Fællesskab</h2>
             <p>Vær med i vores online fællesskab og hold kontakten:</p>
             <iframe src="https://discord.com/widget?id=166142403743449089&theme=dark" allowtransparency="true" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
         </section>
 
-    <section class="gallery">
-    <h2>Galleri</h2>
-    <p>Gense billeder fra årene i Skjern Computer Klub:</p>
-    <a class="button" href="https://drive.google.com/drive/folders/13Jb9Txpz1QhLSyNEUlke6nASZBMve6Bv?usp=sharing" target="_blank">Åbn Galleri på Google Drive</a>
-</section>
-      
+        <section class="gallery">
+            <h2>Galleri</h2>
+            <p>Gense billeder fra årene i Skjern Computer Klub:</p>
+            <a class="button" href="https://drive.google.com/drive/folders/13Jb9Txpz1QhLSyNEUlke6nASZBMve6Bv?usp=sharing" target="_blank">Åbn Galleri på Google Drive</a>
+        </section>
     </main>
 
     <footer>
